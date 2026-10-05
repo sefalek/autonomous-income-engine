@@ -1,0 +1,25 @@
+{
+  "max_candidates": 30,
+  "top_candidates_for_ai": 5,
+  "min_opportunity_score": 55,
+  "product_price_usd_min": 7,
+  "product_price_usd_max": 39,
+  "sources": {
+    "google_news_rss": true,
+    "hacker_news": true,
+    "reddit_rss": true
+  },
+  "topics": [
+    "small business",
+    "freelancing",
+    "productivity",
+    "career",
+    "operations",
+    "sales",
+    "marketing",
+    "personal finance",
+    "software testing",
+    "excel",
+    "project management"
+  ]
+}
