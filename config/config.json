@@ -9,6 +9,10 @@
     "hacker_news": true,
     "reddit_rss": true
   },
+  "notifications": {
+    "email": true,
+    "telegram": true
+  },
   "topics": [
     "small business",
     "freelancing",
