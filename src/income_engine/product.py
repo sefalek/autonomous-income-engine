@@ -2,6 +2,7 @@ from __future__ import annotations
 import json
 import re
 from pathlib import Path
+import shutil
 from reportlab.lib.pagesizes import A4
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle
 from reportlab.lib import colors
@@ -36,4 +37,7 @@ def build_product(spec:dict,out_root:str='dist')->Path:
     (folder/'product-spec.json').write_text(json.dumps(spec,ensure_ascii=False,indent=2),encoding='utf-8')
     (folder/'README.md').write_text(f"# {spec['title']}\n\n{spec['sales_angle']}\n\nSuggested price: ${spec['price_usd']}\n\nTarget: {spec['target_customer']}\n",encoding='utf-8')
     write_pdf(folder/'quick-start-guide.pdf',spec); write_xlsx(folder/'tracking-template.xlsx')
+    archive=folder.parent/(folder.name+'.zip')
+    if archive.exists(): archive.unlink()
+    shutil.make_archive(str(archive.with_suffix('')), 'zip', root_dir=folder.parent, base_dir=folder.name)
     return folder
