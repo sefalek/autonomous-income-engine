@@ -37,9 +37,19 @@ def run() -> None:
             "opportunity_score": 100,
         })
 
-    if not eligible:
+    if not eligible and not requested_topic:
         print("No opportunity passed the threshold.")
         return
+
+    if not eligible and requested_topic:
+        eligible = [{
+            "source": "manual-topic",
+            "title": requested_topic,
+            "url": "",
+            "summary": f"User requested a product around: {requested_topic}",
+            "score_hint": 100,
+            "opportunity_score": 100,
+        }]
 
     spec = generate_product_spec(eligible[:CONFIG["top_candidates_for_ai"]])
     if not spec.get("title") or not spec.get("deliverables"):
