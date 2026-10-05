@@ -2,6 +2,12 @@ name: Autonomous Income Engine
 
 on:
   workflow_dispatch:
+    inputs:
+      topic:
+        description: "İstersen üretilecek ürünün konusunu yaz. Boş bırakırsan sistem kendi fırsatını araştırır."
+        required: false
+        type: string
+        default: ""
   schedule:
     - cron: '17 3 * * 1,4'
 
@@ -25,6 +31,12 @@ jobs:
       - name: Run engine
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          NOTIFY_EMAIL_TO: ${{ secrets.NOTIFY_EMAIL_TO }}
+          NOTIFY_EMAIL_FROM: ${{ secrets.NOTIFY_EMAIL_FROM }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          PRODUCT_TOPIC: ${{ inputs.topic }}
         run: PYTHONPATH=src python -m income_engine.pipeline
       - name: Upload product pack
         uses: actions/upload-artifact@v4
