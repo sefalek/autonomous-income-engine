@@ -20,10 +20,11 @@ jobs:
           python-version: '3.12'
       - name: Install
         run: pip install -r requirements.txt
+      - name: Syntax check
+        run: python -m compileall -q src
       - name: Run engine
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
         run: PYTHONPATH=src python -m income_engine.pipeline
       - name: Upload product pack
         uses: actions/upload-artifact@v4
