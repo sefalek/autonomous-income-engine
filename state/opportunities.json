@@ -1,13 +1,5 @@
 [
   {
-    "source": "reddit",
-    "title": "How to Save Gas Fees on Ethereum: Why Limit Orders Cost Less to Trade",
-    "url": "https://www.reddit.com/r/kybernetwork/comments/1xccwip/how_to_save_gas_fees_on_ethereum_why_limit_orders/",
-    "summary": "https://preview.redd.it/njqn3gz6bzwh1.png?width=1600&format=png&auto=webp&s=cc3c11db4c0e8e37ecd0996655bfa4faaf6f4563 How Can You Save Gas Fees on Ethereum? You save gas fees on Ethereum by sending fewer on-chain transactions and sending them when the network is less busy. A Limit Order helps with the first part. Placing a Limit Order is a signature, not a transaction, so it does not require gas. When the order fills, the taker pays the gas fee to settle the trade on-chain. That makes a Limit Order one of the simplest ways to trade on Ethereum with less gas from your own wallet. It also comes with trade-offs, which are covered below. What Makes Ethereum Gas Fees Expensive? Ethereum gas fees depend on two things: how much work your transaction needs, and how much demand there is for block space at that moment. The work is measured in gas units. A simple ETH transfer uses relatively little gas. A token swap uses more, because it calls smart contracts and may route through several pools. The price of each gas unit changes with network activity. Ethereum adds a base fee that rises when blocks are full and falls when they are not. You can also add a priority fee to get your transaction included faster. So your total gas cost is roughly the gas units used multiplied by the price per unit. Saving gas means lowering one of those two numbers, or not sending the transaction yourself at all. 5 Practical Ways to Save Gas on Ethereum The most effective way to save gas on Ethereum is to send fewer transactions from your wallet. The other tactics reduce what each remaining transaction costs. 1. Trade When the Network Is Less Busy Gas prices rise and fall with demand for block space. If your trade is not urgent, sending it when activity is lower can reduce the price you pay per gas unit. 2. Avoid Repeat Approvals Token approval is a separate on-chain transaction, and it requires gas. Once a contract already has enough allowance for a token, you do not need to approve it again for the next trade. 3. Skip Unnecessary Wrapping Wrapping ETH into WETH is also an on-chain transaction. On a KyberSwap Limit Order, wrapping only applies when you sell a native token such as ETH, so holding WETH avoids that step. 4. Let the Taker Submit the Settlement Transaction With a Limit Order, you sign the order instead of sending a swap transaction. The taker pays the gas fee to settle the trade on-chain. The next section explains why this cuts your gas. 5. Move Small Trades to a Lower-Gas Chain If you trade small amounts often, Ethereum gas can take a large share of each trade. On most other chains supported by KyberSwap, gas costs are negligible by comparison. Why Do Limit Orders Cost Less to Trade? Limit Orders cost less to trade because the maker does not send the transaction that settles the trade. You sign the order once, and the taker pays the gas fee and taker fee to settle it on-chain. A market swap works the other way. You send the swap transaction yourself, so you pay the gas for every trade. Action Market swap on Ethereum KyberSwap Limit Order (maker) Token approval Gas, first time per token Gas, first time per token Wrap ETH to WETH Not needed Gas, only when selling a native token Place the trade You send the transaction and pay gas You sign the order. Signing does not require gas Settle the trade Included in your swap transaction The taker pays the gas fee Cancel Nothing to cancel Gasless Cancel is free. Hard Cancel requires gas The one-time steps are similar. The difference shows up in the actions you repeat: placing, settling and changing your mind. Change Your Price Without Paying Gas A KyberSwap Limit Order fills at the rate you set when you signed it. If the market moves and you want a new price, you cancel the order and create a new one. With Gasless Cancel, that adjustment costs no gas. Creating the new order is also gasless, as long as your token approval is already in place. On Ethereum, where every transaction counts, this lets you keep adjusting your plan without paying gas each time. If the order was recently shared with a taker, Gasless Cancel usually completes in seconds, but can take up to 5 minutes. Hard Cancel is still available when you need instant cancellation. It requires gas, because it invalidates the order on-chain. Your Tokens Stay in Your Wallet Tokens stay in your wallet until the order settles. You do not need to send a transaction to deposit them anywhere first. When Is a Market Swap Still the Better Choice on Ethereum? A market swap is still the better choice when you need the trade done now, or when your order is too small for a taker to settle profitably on Ethereum. Small Orders May Not Fill on Ethereum The taker pays gas to settle your order, so takers weigh the order's size, gas fees and their own margin before filling it. On Ethereum, high gas can make small trades unprofitable for takers. As a result, low-volume orders on Ethereum are unlikely to fill unless the price moves enough to cover taker gas costs. Gas costs are negligible on other chains, so this matters most on Ethereum. A Limit Order Waits for Your Price A Limit Order only fills when the market reaches your rate and a taker settles it. If the market never reaches your target, the order stays open until you cancel it or it expires. A market swap executes at the current rate in one transaction. You pay the gas, but you get the trade immediately. Which One Fits Your Trade? If you want to... Better fit on Ethereum Buy or sell at a specific price, without urgency Limit Order Adjust your target price often Limit Order, with Gasless Cancel Get the trade done right now Market swap Frequently Asked Questions Is a KyberSwap Limit Order Completely Gas-Free on Ethereum? No. Signing the order does not require gas, and the taker pays the gas to settle it. Token approval, wrapping a native token and Hard Cancel are on-chain transactions that require gas. Who Pays the Taker Fee on a KyberSwap Limit Order? The taker pays the taker fee, along with the gas fee to settle the trade on-chain. Do I Need to Approve My Token Every Time I Place a Limit Order? No. Token approval is needed the first time for each token. It is skipped on subsequent orders. Can a Swap Fill My Limit Order? Yes. Limit Orders are a liquidity source on the KyberSwap Aggregator, so swaps via the Aggregator will also be routed through active limit orders when the rate is competitive. Which Approach Saves You the Most Gas? If you trade on Ethereum with a target price in mind and an order large enough to attract takers, a Limit Order saves the most gas. You pay for approval once, sign orders without gas, and let the taker pay to settle. If you trade small amounts or need the trade done right away, a market swap is the more reliable choice. Timing it for a quieter network, or moving small trades to a lower-gas chain, keeps that cost down. To try it, open the Limit Order tab on the Swap page at kyberswap.com , select Ethereum, and set the rate you want to trade at. submitted by /u/Merlinmerlin66 to r/kybernetwork [link] [comments]",
-    "score_hint": 0.0,
-    "opportunity_score": 78.0
-  },
-  {
     "source": "hacker_news",
     "title": "Ask HN: Is there any money in website design for small businesses anymore?",
     "url": "",
@@ -17,11 +9,27 @@
   },
   {
     "source": "reddit",
-    "title": "I’ve recovered! But I keep falling into the same cycle…",
-    "url": "https://www.reddit.com/r/Agoraphobia/comments/1xccyjw/ive_recovered_but_i_keep_falling_into_the_same/",
-    "summary": "So it’s as the title states I have recovered from agoraphobia on one occasion but I keep falling into the same cycle and I want help to break out of it. This is going to be a relatively long post because I want to cover all details in hopes maybe it can help one of you recover aswell but hopefully avoid my nightmare cycle I’ve run into in the process. So it starts in summer of 2024 my grandmother ran into some money troubles and we ended up getting evicted, prior to this eviction I was agoraphobic completely homebound and almost bedroom bound for 9 1/2 months, not as long as some of you on this thread so I know that’s not the most severe case but for me as someone who could never sit at home it felt like an eternity. But that summer when we got evicted we ended up living out of hotels for about 3 months and it’s like within a day I was completely cured every ounce of anxiety had left my body for the next few months, during this time I got extremely active compared to my activity level during my agoraphobia’s peak where I took maybe 800 steps a day on a good day I was in these hotels walking my big fluffy husky out of boredom and taking legitimately 5k-15k steps a day just walking and walking and walking some more and it kept me busy when I was in the hotel I was focused on work (I’m a full time YouTuber) and that also kept me busy I was eating well even though it may have been garbage and a lot of fast food or Tv dinners that weren’t healthy but it didn’t matter I was doing well I felt more physically and mentally fine than I had in years again virtually no anxiety. Fast forward to the end of this homeless phase we found a new place we moved in after about 3 months homeless and it’s like it subtly tried to poke its head once again I wasn’t back to fully square one but in this apartment I never felt comfortable I never felt like I did when we were living in the uncertainty of the hotels I went back to being anxious and hardly leaving the house, outside of a small dating phase and meeting a girl for a few dates I didn’t leave the house in the 3 months I lived in this apartment, then sadly another eviction struck my grandmother was struggling with bills I had quit YouTube at the time so I wasn’t bringing in any income just a slight nightmare situation. Fast forward a little that eviction starts and we’re living in hotels once again, and guess what I’m completely comfortable again no issues whatsoever for the next few weeks until we moved into another new apartment then it flared back up. During this time I met my now girlfriend this is December 2024 and I was as anxious as anxious could get however I went and I met her and it’s like it completely vanished once again I had the most blissful next year and a half with virtually no anxiety I ended up with two separate in person jobs that year I had two cars and we were working tords building our new life together until we decided to leave our jobs and move out of state, a few weird things happened we didn’t move out of state so I was then on the hunt for a new job and well this was the beginning of what I am dealing with now the cycle restarts again. This time the disaster struck and started slow I had a really terrible panic attack when we went to a Christmas lights show that year it was maybe 15 degrees outside and we were trying to speed walk into the building so I could get some heat once we got in there I had my first full panic attack in almost 2 years the only time I’ve ever had one in public at that time, the walking got me short of breath and I constantly keep dreading and thinking I wouldn’t be able to catch my breath to where it turned more into air hunger but I was on the come down and I was uncomfortable but somewhat stable the heat was on I warmed up etc then someone in this venue had some form of medical emergency and the medical staff was rushing to them and it was maybe 30 feet in front of us it restarted the panic ultimately causing us to leave and I was for the most part okay at this point but I became extremely OCD about my breathing from this point, it wasn’t limiting any of my daily functions I was just taking it a little easier however I became far less active my steps went from that 5-10k a day I held for a few years to 3k and under around this time but again all was relatively fine outside of anxiety and OCD related to my breathing. We ended up moving out and going to our first place together and again I was good didn’t get out of breath during the move took it really easy. We were happy everything was going pretty good I ended up getting back to my full time YouTube role and I was doing pretty good with that until late June early July I had the worst panic attack I’ve ever had and it caused a full essentially relapse into the agoraphobia and I just don’t know how to recover at this point everything feels like a nightmare. This panic attack came one day when I had to walk about 2 miles to go grab my car fairly quickly so obviously that would cause some general fatigue and reason to be winded I didn’t get overly anxious about that but I wanted me and my girlfriend to go grab a water at a gas station after that walk we left the house and drove around for a little while to a gas station and it was getting really hot outside and my car didn’t have AC and the passenger side window was stuck and wouldn’t fully roll down and it was again hot but we were headed home I was going to be okay I was panicked I was sweating but I understood why, then we got stuck behind a train that was broke down maybe 5 minutes from the house. so I went into a full panic it was about 96 outside the car is a Miata so it’s tiny the top is black interior is black and the transmission tunnel that gets EXTREMELY HOT runs against your leg so the inside of the car at this time likely would’ve read over 11-120 degrees and we ended up having to go to a friends house so I could cool off and calm down it was just a nightmare situation and I still haven’t recovered from how horrifying that one episode was. Since that day I have become anxious about overheating I don’t like driving the car when the sun is out I about have a meltdown anytime it’s above 80 degrees outside. I haven’t left the house much outside of taking her to and from work which is perfectly fine in the morning and at night when it’s cool and not bright outside but if it’s a 2-3pm kind of thing I overthink and overscan about it for the entire week and anticipate it I check the weather app a million times and look for ways out of it and end up having panic attacks while driving if it’s warmer or brighter outside making my life miserable. same with going to stores etc I have become slightly avoidant of them like Walmart or larger stores I am fine in the smaller dollar generals or gas stations or vape stores but larger stores I have become almost completely avoidant of. Basically a lot was said here and I’m curious if anyone has landed themselves in a similar cycle of struggle and recovery and essentially relapse to our awful and crippling condition, if so how did you get out of it? Is there something I’m missing in this that maybe helped me recover all the other times that I just am not computing this time? The only outlier I see personally is my physical activity anytime it has taken a major dip like right now I’m back on the sub 2k steps a day cycle that’s when my anxiety is the highest. Again hope this maybe helped somebody also hoping somebody can help me lol. submitted by /u/Old_Interaction_3081 to r/Agoraphobia [link] [comments]",
+    "title": "FYP idea",
+    "url": "https://www.reddit.com/r/PakistaniDevs/comments/1xfrfsc/fyp_idea/",
+    "summary": "Hi i m 7th sem Software Engineering student and i have fyp ahead of me i m unable to come up with an idea that actually solves a problem Its like all problems are solved with the AI slop everything even the useless r already made & implemented I always wanted to build something that is useful and applicable somewhere and which can be converted into a small startup or money business model Need help guys what r ur problems what r the gaps in market in the age of AI submitted by /u/BisonImportant9067 to r/PakistaniDevs [link] [comments]",
     "score_hint": 0.0,
     "opportunity_score": 60.0
+  },
+  {
+    "source": "google_news",
+    "title": "Justin Lokay: I’m a small business owner. And I’ve got a problem with paid parental leave. - TribLIVE.com",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT1N3X0o5YnVKR1lsNlVCMEY4aGdXSElTakRycEpLZGtmbDhMaVVBS0RQcTMxZk1WQmRvNlJBdENLQnpzMjBDNGkxeGtOT3ItT3NNWWc1djZBYmEzVlpSTWRVbFVJSS1jLXdGcDVJT2tOVy1IemItbXF0RmxjZm1HVGw1SHRoQTFfb0NuWUVKWXlzcTg5dVNVMWZEVDlnbzRUYXZ2NVBWN1pPUDRCOEtfVFllM2Rjdw?oc=5",
+    "summary": "Justin Lokay: I’m a small business owner. And I’ve got a problem with paid parental leave. TribLIVE.com",
+    "score_hint": 0.0,
+    "opportunity_score": 56.0
+  },
+  {
+    "source": "reddit",
+    "title": "I feel like I’m tired of being responsible for my family",
+    "url": "https://www.reddit.com/r/Parentification/comments/1xfrf78/i_feel_like_im_tired_of_being_responsible_for_my/",
+    "summary": "Sometimes, I feel like I don’t want to live anymore. I had an argument with my mom today. I asked her why she needed to send money to her mother and sister when both of my parents are already senior citizens and have no source of income. I used to work in Dubai, but I quit my job to pursue a small business in my hometown. Unfortunately, things were really difficult, and I eventually had to stop the business. Now, my parents are relying on the remittances my brother sends from Dubai. I worry about their future because they’re getting older, and I know they need financial support. That’s why I don’t understand why my mom also feels the need to support her own mother and sister when we’re already struggling financially. When I asked her about it, she said, “Why can’t I send them money? She’s my mother, and Rowena is my sister” I understand that they’re her family, too, but I can’t help feeling frustrated. I feel like I’m worrying about my parents’ situation while we’re also taking on the responsibility of helping other family members. I left my job abroad because I wanted to try building something of my own back home. It didn’t work out, and now I feel lost. I’m emotionally exhausted from everything that’s been happening. Sometimes, I feel like I’m expected to figure everything out, even when I don’t know how to fix my own situation. I don’t want my parents to suffer, but I also don’t want to spend my life feeling responsible for everyone’s problems. I honestly don’t know what to do anymore. I’m so tired, and I feel like I’m losing myself in all of this. I just needed somewhere to let these feelings out. I don’t know if I’m being selfish or if my feelings are valid, but right now, I feel completely drained submitted by /u/Charming-Setting-994 to r/Parentification [link] [comments]",
+    "score_hint": 0.0,
+    "opportunity_score": 56.0
   },
   {
     "source": "hacker_news",
@@ -41,9 +49,17 @@
   },
   {
     "source": "reddit",
-    "title": "Helppppp",
-    "url": "https://www.reddit.com/r/FacebookAds/comments/1xcd0po/helppppp/",
-    "summary": "Hi all, I’m paying for Meta Verified for Business (monthly subscription, charged on the 1st of every month) for my small business in the EU. The problem is that Meta only gives me a receipt for each charge, never a proper VAT invoice . What I’ve checked so far: Billing & Payments → Invoices : empty, even with the date range set to “All time”. Billing & Payments → Payment activity → Meta Verified accounts : the charges are there, but the only download is a receipt PDF. There’s no invoice number. My ad account payments in the same Business portfolio do get proper VAT invoices with an invoice number, so invoicing works for ads, just not for Meta Verified. My business name, address and VAT ID are all filled in correctly in the billing settings. The receipt shows 0 tax, which I assume is EU reverse charge for VAT-registered businesses. My accountant still needs a real invoice, though, not a receipt. I’ve opened a support request, but I’m wondering: Has anyone else run into this with Meta Verified? Did you ever get a VAT invoice for it? If so, how? Support ticket, a setting somewhere, a different page? Or does Meta just not issue invoices for Meta Verified, and you had to use the receipt for accounting? Any tips appreciated. Thanks! submitted by /u/Inevitable_Worry99 to r/FacebookAds [link] [comments]",
+    "title": "Wrote a heartfelt message and got an hr seeming response back. Idk what to write back.",
+    "url": "https://www.reddit.com/r/Advice/comments/1xfrh4n/wrote_a_heartfelt_message_and_got_an_hr_seeming/",
+    "summary": "Hi everyone! I am 23f and I’ve moved to a new place a couple months ago so I am heavily relying on my community. I had a really close friend (25m), we had both had a lot of shared experiences in life and we just kind of clicked right away so it was nice to have someone in my community who just got me. Our community is somehow big but small at the same time and he’s started making new friends (who are also now my friends too, which I’m glad about because I had been wanting to become friends with them!) but in his haste to make new friends he’s forgotten about his original friend group, and constantly ignores or makes excuses anytime I, or someone else, invite him out. We went from talking all the time to not talking at all. Now, some back story, we both had the same starting careers before moving to a new shared career (we are not coworkers. Just have the same new career), and a lot of shared experiences like I said before, so eventually I started liking him and he said he thought I was attractive. I stayed over at his house and… well yeah. Ever since it happened it’s been really awkward between us I think. Or maybe that’s just me, I don’t know. Anyways, I’m currently seeing someone so I’m not even thinking about him like that anymore. We had an event in our community and I got really bold after having a couple drinks and I asked him why he was basically ignoring me and one of the other guys in our original friend group. He apologized and said he just wants to make friends everywhere (which I get, because I don’t hang out with the same people all the time) but I felt like that was another excuse because it’s the same people he hangs out with all the time. He said he’s busy with things or he’s already had something planned, but I invite everyone to do the same thing with me all week (playing a sport) and he came the first time but has avoided my messages since. So he knows what I’m doing. So it felt like that was another excuse. I did dig into him a bit which I ended up feeling bad for the next day, so I apologized and said that while his actions can be hurtful I never meant to be so harsh and rude and I shouldn’t have done it. He came back with a response that resembled something chatgpt would write honestly, it kind of threw me off guard. I have no idea how to respond because he said he wants to know how it hurt me so we can repair our friendship. I think I may be jealous of him? Because his friends who are now mine are people I’ve been wanting to hang out with but I feel like every time I’m around them I don’t know what to say or how to act because I feel so awkward. I have autism so it’s difficult for me to fit in with other girls and I’m terrified of saying the wrong thing or being seen as weird. I think it also hurt that he just kinda threw our friend group out like we were toys he didn’t want to play with anymore? Obviously you don’t have to see us every week but like a quick hang out or an acknowledgement instead of an excuse would be nice. It’s the fact he hasn’t been a good communicator and just kind of left us high and dry. I’ve seen the look and annoyance (even sadness) on my other friend’s faces when they invite him to do something and he makes an excuse. Oh he also told me he was sorry for avoiding me? So I’m not sure if he didn’t mean to or he did at this point. If he was aware of what he was doing. I don’t want to sound too emotional or like I’m controlling him because that is NOT my intention. My intention is to express the fact that he’s bad at communicating and left us high and dry, that a quick acknowledgment would be nice. Or just like idk make time to see the friends that miss you and ask to do stuff with you? I didn’t think this would be so long. Sorry!! TLDR: dug into a friend for being a bad friend (imo), apologized and got a very very formal response back. Idk how to respond. submitted by /u/peachymomos111 to r/Advice [link] [comments]",
+    "score_hint": 0.0,
+    "opportunity_score": 55.0
+  },
+  {
+    "source": "reddit",
+    "title": "💔 I'M ONLY ASKING FOR ONE CHANCE TO CHANGE MY LIFE. PLEASE READ MY STORY. 🙏",
+    "url": "https://www.reddit.com/r/TellReddit/comments/1xfrgee/im_only_asking_for_one_chance_to_change_my_life/",
+    "summary": "I'm not asking for pity. I'm asking for a chance. Right now, I'm a first-year college student trying to survive and build a better future for myself. Life has been incredibly difficult lately, and honestly, there are moments when I don't even know how I'm going to make it through. My mom recently passed away, and losing her has been one of the most painful experiences of my life. My father abandoned me, and now I feel like I'm facing the world on my own. I'm trying to continue my education despite everything that's happened, but it's not easy when you're struggling emotionally, mentally, and financially. As of right now, I only have ₱500 in my pocket. I don't even have a phone of my own. While other people are busy enjoying life, I'm trying to figure out how to survive, continue college, and somehow build a future for myself. But despite everything, I haven't given up. 💔➡️❤️ That's why I'm working on my YouTube channel, What You Think, I'll Explain. My dream is to create educational content that helps people understand the world, science, philosophy, psychology, history, and so much more. I know I'm still a small creator. I know I don't have expensive equipment, a fancy setup, or the resources that bigger creators have. But I have ideas, determination, and a dream that I'm not ready to abandon. 🙏 IF YOU CAN HELP ME, PLEASE CONSIDER SUBSCRIBING TO MY YOUTUBE CHANNEL. If you enjoy my content, please watch my videos, leave a comment, share them with your friends, and help me reach more people. If YouTube offers you a legitimate way to support or promote my channel, I'd be incredibly grateful if you considered it. You might think that one subscriber doesn't make a difference, but for a small creator like me, every person who chooses to support my work means something. I'm not expecting anyone to solve all my problems. I'm simply hoping someone out there will give me a chance to grow, improve my content, and turn this difficult chapter of my life into the beginning of something better. I want to finish college. I want to build something of my own. I want to prove to myself that even when life takes so much away from you, you can still find the strength to keep moving forward. I may be struggling today, but I don't want my circumstances to define my future. If you've read this far, thank you from the bottom of my heart. ❤️ Even if you can't support me financially, a subscription, a view, a comment, or a simple share would mean so much to me. Please help me grow What You Think, I'll Explain. Every bit of genuine support gives me another reason to keep creating and chasing my dream. 🙏 PLEASE SUBSCRIBE. PLEASE SHARE. PLEASE GIVE A SMALL CREATOR A CHANCE. You never know how much your support might mean to someone who's trying their best not to give up. Thank you for hearing my story. May kindness find its way back to everyone who chooses to help. ❤️ 🔔 YouTube Channel: What You Think, I'll Explain #SupportSmallCreators #SmallYouTuber #CollegeStudent #YouTubeJourney #NeverGiveUp #WhatYouThinkIllExplain submitted by /u/Weary_Television77 to r/TellReddit [link] [comments]",
     "score_hint": 0.0,
     "opportunity_score": 54.0
   },
@@ -72,6 +88,14 @@
     "opportunity_score": 53.4
   },
   {
+    "source": "reddit",
+    "title": "Mumbai-based tech graduate looking to collaborate on projects, freelance, or join a startup",
+    "url": "https://www.reddit.com/r/FreelanceIndia/comments/1xfrcdh/mumbaibased_tech_graduate_looking_to_collaborate/",
+    "summary": "Hey everyone! I'm based in Mumbai, India. I recently completed my B.Tech in Cloud Technology and Information Security, and I'm looking to connect with people who are building interesting things, working on startups, or need someone to contribute to their technical projects. My main interests are DevOps, cloud computing, cybersecurity, and web development . I'm still growing my experience, but I enjoy learning by building real projects and solving practical problems. A little about what I've worked on: DevOps: Built a CI/CD pipeline for automated website deployment using Jenkins, Docker, and GitHub. Web Development: Worked as a remote Frontend Engineer, using React.js and Next.js to implement UI improvements and fix frontend issues. Cybersecurity: Practiced network scanning and traffic analysis with Nmap and Wireshark, explored OWASP ZAP, and completed a phishing simulation project in Kali Linux for security awareness. AI Project: Built Krishi Sahayak, a farmer assistance application using Flutter, Firebase, and Gemini AI. I'm currently looking for opportunities to contribute to freelance projects, paid contract work, startup projects, or a full-time role where I can learn, contribute, and grow alongside a team. I'm particularly interested in working with founders, developers, small businesses, and early-stage startups. I'm also open to collaborating with people who have an interesting idea and need a technical contributor to help bring it to life. If you're working on something and think my skills could be useful, feel free to comment below. I'd love to hear what you're building and see if there's a way we can work together. Looking forward to connecting with people from across India and beyond! submitted by /u/Some-Profession-6533 to r/FreelanceIndia [link] [comments]",
+    "score_hint": 0.0,
+    "opportunity_score": 53.0
+  },
+  {
     "source": "hacker_news",
     "title": "JPMorgan’s small business loans instead went to its biggest customers",
     "url": "https://www.bloomberg.com/news/articles/2020-04-22/jpmorgan-commercial-clients-beat-out-smaller-ones-for-sba-loans",
@@ -81,27 +105,11 @@
   },
   {
     "source": "reddit",
-    "title": "I feel like I’m in a competition with my friend that I don’t want to be apart of",
-    "url": "https://www.reddit.com/r/FriendshipAdvice/comments/1xccxy5/i_feel_like_im_in_a_competition_with_my_friend/",
-    "summary": "I (22) female have been friends with my friend (23) female for around 4 years. She quickly became one of my closest friends. Over the past year I've noticed a change in her behaviour. I've noticed that if I buy something or change something about my appearance she will do the same or similar almost immediately after. This usually doesn't bother me but it feels like she is copying things that are my own personal style. I know I can't claim something like clothes or a hair colour as my own but it continues to happen. My friend also has had a long term boyfriend for the past 8 years. She has never been with anyone else. She often enjoys attention from other men when we are out and will constantly bring up all the guys who are complimenting her or hitting on her. It makes me feel uncomfortable because she has a boyfriend and it's none my business to get involved in their relationship and it also feels like she is trying to let me know how beautiful she is because she is continuously bring up guys who have hit on her in the past and what they have said. The final straw for me was when I started dating my boyfriend. We live in a small town so most people know each other and two years earlier she was on a break with her boyfriend and my current boyfriend and her flirted at the bar. Nothing happened but he had showed interest in her that night. Since my boyfriend and I started dating she will constantly bring up him flirting with her in the past in a joking way but it is constant. It feels like she wants to remind me he also showed interest in her. I'm not sure how to bring any of this up to her as I have let it all build up over the past year. I also don't know how to end the friendship if it is time to do so. submitted by /u/Famous-Problem8246 to r/FriendshipAdvice [link] [comments]",
-    "score_hint": 0.0,
-    "opportunity_score": 52.0
-  },
-  {
-    "source": "reddit",
-    "title": "One person. Real business. No chaos.",
-    "url": "https://www.reddit.com/r/u_Difficult_Buy4640/comments/1xcd024/one_person_real_business_no_chaos/",
-    "summary": "One person. Real business. No chaos. Sell outcomes, not hours — “Website that gets leads” beats “10 hours of development”. Price the result. A funnel that chases for you — Content → lead magnet → DM automation → call booked. You show up to qualified conversations. Document it once — SOPs + AI agents handle the repeatable 80%. You keep the judgement calls. One channel. Every day. — Pick one: Instagram, LinkedIn, email, SEO. Depth beats being everywhere. Numbers every week — Leads, close rate, margin, hours. What you measure is what compounds. 1 + systems — beats 10 people without them — Leverage is the whole point of building small. Full carousel (8 slides): https://www.instagram.com/p/DeyjwnXFXp_/ Happy to go deeper on any of these — ask away. submitted by /u/Difficult_Buy4640 to u/Difficult_Buy4640 [link] [comments]",
+    "title": "Cafe business in Makati",
+    "url": "https://www.reddit.com/r/PHFoodPorn/comments/1xfrb4c/cafe_business_in_makati/",
+    "summary": "Hello, I'll be starting a small cafe business with my bf around Legazpi area. I'd like to hear from other owners or like makati coffee goers if there's still a good market for cafes there or is the market too saturated? Rent won't be much of a problem since we own the land. For others, is there any advice or what you like in a cafe so we can incorporate it in our future venture? :) submitted by /u/BunnyCarrot5597 to r/PHFoodPorn [link] [comments]",
     "score_hint": 0.0,
     "opportunity_score": 51.0
-  },
-  {
-    "source": "reddit",
-    "title": "Would you trust AI to manage your business’s social media? Would you trust AI to manage your business’s social media?",
-    "url": "https://www.reddit.com/r/buildinpublic/comments/1xccwbe/would_you_trust_ai_to_manage_your_businesss/",
-    "summary": "Title: Would you trust AI to manage your business’s social media? I’m building Amalyn AI, a social media assistant designed for small businesses. One thing I’ve noticed while working on it is that automating content creation is only part of the challenge. The bigger question is trust. If AI could create posts based on your actual business, maintain your brand’s style, and prepare content consistently, would you trust it to publish without your approval? Or would you prefer reviewing everything first? I’m particularly interested in hearing from small business owners, hospitality operators, and people managing social media for clients. What would make you trust a tool like this? submitted by /u/Miserable_Camel9165 to r/buildinpublic [link] [comments]",
-    "score_hint": 0.0,
-    "opportunity_score": 49.0
   },
   {
     "source": "hacker_news",
@@ -118,6 +126,22 @@
     "summary": "",
     "score_hint": 830.0,
     "opportunity_score": 47.4
+  },
+  {
+    "source": "google_news",
+    "title": "'I cannot teach you integrity': How employee theft is hurting small businesses in Africa - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YREtwSURZWjJYOWtKMkRCeUMtNWdHZ0RYeGJfakNLU2N5NzNfMVE5Z01aWnBnYXIzUE9zay1la1VxZ2NPSmlGeS02NmRqR2hSS005TmlxRU1OUmM?oc=5",
+    "summary": "'I cannot teach you integrity': How employee theft is hurting small businesses in Africa BBC",
+    "score_hint": 0.0,
+    "opportunity_score": 46.0
+  },
+  {
+    "source": "reddit",
+    "title": "Is 3D printing a good business?",
+    "url": "https://www.reddit.com/r/passive_income/comments/1xfri3j/is_3d_printing_a_good_business/",
+    "summary": "So I want to start a small 3D printing business, first of all because I enjoy 3D printing and second of all because I feel like there's potential for business here. I also know some 3D + my wife is an artist/designer who is helping me with that aspect of it all. I'm about to buy a new printer but I'm trying to figure out how to turn this into a business because it's probably much difficult than I am antecipating. Does anyone have recommendations or advise? Is this even a good idea? submitted by /u/V1nhoVerde to r/passive_income [link] [comments]",
+    "score_hint": 0.0,
+    "opportunity_score": 46.0
   },
   {
     "source": "hacker_news",
@@ -144,92 +168,68 @@
     "opportunity_score": 43.0
   },
   {
-    "source": "reddit",
-    "title": "What to ask before hiring a web designer — an FAQ from one",
-    "url": "https://www.reddit.com/r/u_Mayday0s/comments/1xccz2s/what_to_ask_before_hiring_a_web_designer_an_faq/",
-    "summary": "![topic image]( https://image.pollinations.ai/prompt/flat%20minimal%20illustration%3A%20laptop%20showing%20a%20simple%20website%20wireframe%20next%20to%20a%20clipboard%20with%20checkbox%20list%2C%20warm%20neutral%20tones%2C%20clean%20modern%20style?width=1024&height=576&nologo=true&seed=109407&model=flux ) I'm a freelance web designer — 3 years in, mostly simple sites for small businesses: landing pages, WordPress builds, plain HTML/CSS, speed fixes. Rates run $200-$1500 depending on scope. A friend asked me what to check before hiring someone like me. Honest list: Who owns the domain and hosting? The big one. Some designers build your site on their account. Leave, and your site goes with them. Own the domain and hosting from day one — your name, your card. What exactly is included? Get it in writing. Revisions, mobile responsiveness (standard, not an upsell), contact forms, who writes the copy. 'Website' means nothing. '5-page WordPress site, 2 revision rounds, you provide copy' means something. What happens after launch? Sites break. Plugins update. Ask who fixes it and what it costs. If they say 'don't worry about it,' worry about it. Can I edit it myself? Changing your hours or swapping a photo shouldn't require a support ticket. A decent build gives you a simple way to handle the basics. What's the timeline? My simple sites take 1-3 weeks. Delays usually come from content not being ready — ask who's responsible for what. One red flag either way: a quote with zero questions about your actual business. I do all of this, so if you've got a project coming up or just want a sanity check on a quote you've received, DM me. submitted by /u/Mayday0s to u/Mayday0s [link] [comments]",
-    "score_hint": 0.0,
-    "opportunity_score": 43.0
-  },
-  {
     "source": "google_news",
-    "title": "New Gemini tools for small business owners - blog.google",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaWRnZ29tZVlBODFuMVVnZHJ3elhJS1dETWZwVWZwa0FQeVZ2d3dyRGkzOHFMUUlQalZoVk56azFiQ3dPYVVoX1VqeGR3SFZPQlZGeU85Njl2LVZfazFQR2VwV2xjZ1BuUE03WnF5SG5jc3ZIV0FCSmdUWjBqMjRHU2ZLTGdRY2tTQnVoN0VFaGN3QXVw?oc=5",
-    "summary": "New Gemini tools for small business owners blog.google",
+    "title": "6 Startup Ideas With Growing Demand That You Can Build From Home - Inc.com",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMUhUaFhwVW5XTERybnVIOERpZlVyWUhTX0xzc0MxZGV6VG5USklfY3NmLVo4SGtCSWs5bnFXb00tSkw2TDBxbGh1a3EwXzhWZVI0Q1NpMUo5UjBJY2hZQ1czcjc4WWo2aEZtb19DV3c4bC1pQmhRb3NnVnNXM05wcFh0WnhqYUwyN1pnSFRYM0VlUkRTQXYycVpqQ1JRRGJTTWNVTGdRaEl3UQ?oc=5",
+    "summary": "6 Startup Ideas With Growing Demand That You Can Build From Home Inc.com",
     "score_hint": 0.0,
     "opportunity_score": 40.0
   },
   {
     "source": "google_news",
-    "title": "On Main Street, Goldman Sachs makes a big bet on AI - NBC News",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOERqdTZkVDBjdlRfQ0JFV3NpLURsZmtoUGhLMnJtck9PNTgteG9CclotdTMtYm9tYnJORU9HR01uWmFIU3EzS2xEZmJTcDRwQ3Z0RjVXUGlVS1hoZzBsY3R5TFdteGliUF9leFA2d0I5NElnNlQzNkdOekdzcll1cnhGM0JBMC1JZklkN2lqazBROG1lcm40aGtPX0otcmIzTnc?oc=5",
-    "summary": "On Main Street, Goldman Sachs makes a big bet on AI NBC News",
+    "title": "‘Dream big’: The young entrepreneurs launching Seattle-area businesses - The Seattle Times",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSmtxUjFkU2FuRjNaQXZQQ3NwLUx2VFRsUVRaY0dKTFRneUVCXzVoVXJmZnduQTdmTzlEWHc5aGpTMXBGOWhHcl9ZWS1sMDJ0V3ZRdml0NzdXZ2NuNXdRUC1SOHhQVWtBZVZ3M0xjZWp2NHlpT1ozUWR4YXkzSEtXSWw2Vm5NdGJZSTFiQy0zS2pGalE4VllabU9QVTV0LWFCRGhDR09RVEhqcGVVUWRhSjRpMnBxVmM?oc=5",
+    "summary": "‘Dream big’: The young entrepreneurs launching Seattle-area businesses The Seattle Times",
     "score_hint": 0.0,
     "opportunity_score": 40.0
   },
   {
     "source": "google_news",
-    "title": "‘It’s hard for us’: Paris small businesses bear brunt of protest violence - Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLU5UQW1NbHBBUkdDZjRISXJ5UU1FY3dqUU5GZmctYmdDS3EwcDZNeVZ5dTA1MnhkMnAtVzNMQVl5X2xWUFBQaVlTbGJad1d3dERacmhfRmxLU1JrXzdxcE1ZM0NEdGl2M0ZQYmdOU2FPOW1wMmRWeFNPaUgzNUFaNHBMa3d3RUFpNndDUFhySnNYcGVDQVg4aFlwWTZrcFowMG11WW16SWJfdVBfcWk3eNIBtgFBVV95cUxNcDFHcm5XTy04c1VIcU1lamF4aHE3MjI1clIxZGhmOHZwS1h5M1lhcW1TeTZFYnRFZ3BlN3RUNzZkTmtFZWI5eHlsSHAwd0Rlblk5MkxIRnpGR0VFWk12dm9vVWhra25RWUUxZERYbGR4ZUF4a1Nib0NhNzFsbzBPU0VtS3VaLVE5WVYtWm1WYjY5N0YtVHFFWjc5ZHg2NlZLa0pBNjRvMF91VlFwRFRwOVZTMVBHUQ?oc=5",
-    "summary": "‘It’s hard for us’: Paris small businesses bear brunt of protest violence Al Jazeera",
+    "title": "Small Business Owners Are Quietly Paying For Inflation With Their Pay - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeXEteXIxa0dKaS0yZGJSSE82dlpRdHkwX0lsWU80Q1RfTnB6MVJjckFLb0dCcms5YUJ5cUV3aTVTeGJnTFhSdWpLYjc5M1NRRHJSSnhoNS1LaFpOR2ktenJMZVNFdDBoYnV4OWpaLWR4X1NwVzJBWEgxcEVfMzRFTWtEYUxwdDRLcGVhNmNMVjNrX0gtblNUbkd4MEtFdklQa3JqTW5tU1E1NEZwdjd5RlVRWnVabmZFQnpSeFJ3?oc=5",
+    "summary": "Small Business Owners Are Quietly Paying For Inflation With Their Pay Forbes",
     "score_hint": 0.0,
     "opportunity_score": 40.0
   },
   {
     "source": "google_news",
-    "title": "Truist builds out small business with high-level hires from PNC - The Business Journals",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdDNTTWVvTUlaLVlrUkdqajNkZjVrMExEUnVMbzVOaUE4TnI0cnZrUVpYdXFEdTd2a2tpSGlZSUtueVlVVVQwUlhNUnVvWE1fSEpJUnRCZTd1YU5EcDZjN1B3aG9TRGVqZF9SdUVmUFBzMThPMUluQWw5c2RpTTZSQU44aFRxWXR2d3c?oc=5",
-    "summary": "Truist builds out small business with high-level hires from PNC The Business Journals",
+    "title": "VIDEO: Shop Local at the RI Small Business Village at Providence Place Mall This Season - Go Local Prov",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdnRyT1JmM2tCNjAxMWRpZjlReTl2X1NPMy1oWlEtUERTRGlDdDE2TUE5OUpYVUpWSnFuR1cxbm9HMEQ0MXpzS25LbkNpdUFjd0NDaXNIY09TSEJLYTN0aW9FVXh2TF8xVnZSYnc4UFFHR2JmcjRHSmxrTXpvNUhYRDVNeXJGNTRZT2FjSVpsQXBVZlhjUFhWUmRKYWZtYi13cFRUUHVZMTJtR3RKVmMta1dVU3BFcVlKbzJ1WTN4RVI?oc=5",
+    "summary": "VIDEO: Shop Local at the RI Small Business Village at Providence Place Mall This Season Go Local Prov",
     "score_hint": 0.0,
     "opportunity_score": 40.0
   },
   {
     "source": "google_news",
-    "title": "Fun Finds to Celebrate Women’s Small Business Month - TODAY.com",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNms1TEZTZzFHTnp0MFpOU0ZfbzNybXhpRFJuemx5Q2dIb192dE5zQkpDek42Q3oyYWxuaW9oLWl4Tm1URkZQWTd0VWVLdUtjQVVxU1VEZ3h4WVE0ZFFwVndndnJMdHZENmFYMlV2MF80cEpueUVNM0wyOTRDd3lwNTBMeWNrYmdhSFlUc1N2ZWNMWUVTR3Ryb21xQXJGdGtCTHc?oc=5",
-    "summary": "Fun Finds to Celebrate Women’s Small Business Month TODAY.com",
+    "title": "‘A great small business,’ this restaurant moved from Boise to Eagle. It’s closing - Idaho Statesman",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONnRrSVJIdjEwUmtweUtOZnpza3BmcUZhSkFzanZ1aXc2N0FUaWdEMmJubWhHVDhoMlEzMVBaVXZwUVMyTk82ci0xbnJXMi1TYjIxVkZUUHVia3YyeU43VzRXeU1LYWpjRm9jQkQzQ09vcWQ2SHBtUGdCR29GOV9EbmVDc3TSAYQBQVVfeXFMTjM3TkhrNDZ1emJqOEFyRXFnS2ZXOXJNSl96eVg2MmFZRjRhb3FDSjFHd2xlbzN4N2tkZGZUd0FaOWV5VnozTWJtZXAtTkdUdS13VmJoWFNnVEZIQ29Na3Vjc0RwSks2eXpJUnROMjJvTGFtTm5fSXZvQkE0TDVtaDJBd3I2?oc=5",
+    "summary": "‘A great small business,’ this restaurant moved from Boise to Eagle. It’s closing Idaho Statesman",
     "score_hint": 0.0,
     "opportunity_score": 40.0
   },
   {
     "source": "google_news",
-    "title": "Perry businesses prepare for visitors ahead of Trump rally - 13WMAZ",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaEZDVVVTQ2E5ZXF2ay1xcERwQ3hWNTFqVnRNZkV2Sk93S3Y1NnVPYjA1WTd4OENuelNMVi1fMFNkRk9qay1rNXVTSGFmbjlHb293RGJQWWtscktrSzVkblRIWDZ4WG8tb2ppZTRhMm5pNUNsbVFGNWJEUWhIaHBYZ0RxUzZncmhlRllIYTBZQVpFWGd2OXc3M2ExcDUwSVJjeEVLckxlLU44UFphc3FGWmw3TUVLcVFtZHpRQ1FSWFk2SVZ0ZG1tSUc4XzVHQXRncTIzYzFQRXFYS0owQzQ4bDJORFJOVVk4MnRN?oc=5",
-    "summary": "Perry businesses prepare for visitors ahead of Trump rally 13WMAZ",
+    "title": "SBA Opens Nominations for 2027 National Small Business Week Awards - Small Business Trends",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOblFvN2pkb2dtWDl0QlIxQjFOTW9FZ2ZLeUE1Mkc0SS1uVHRPUlRIY010S3hyd3VMS2xycXVmdmJ1QkNuTDAyZS1zNlgxUnVscnRJQTlRSmdQV1pZNUFCZzIxa0FnMmN4UnVSaVhpeThBTVZBcTFROEdtRU0wSFRnQnpXcU04WW1oWXg2WmU4N2V5emtvNjctUXJB?oc=5",
+    "summary": "SBA Opens Nominations for 2027 National Small Business Week Awards Small Business Trends",
     "score_hint": 0.0,
     "opportunity_score": 40.0
   },
   {
     "source": "google_news",
-    "title": "Meet the young entrepreneurs giving Japan's old businesses a second life - Business Insider",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXdfcTdOdnZJSXBkYUNBWW9PTC1YbkNYWjZMbjBkNHJNX2dadXJveWtna2Y2QzJzbTMwSnNoTHpRdXk5RlhXbjI3ZkNHRUFiTERyRUo0bmdkVlEwZXZxanliNFgzdmlENTA1VXhlWWhyQUx5MW1KVjFkbnNiZXJJMnQwSnVKblU4Y29qcVhheGZ0SXdBeWZBZE9B?oc=5",
-    "summary": "Meet the young entrepreneurs giving Japan's old businesses a second life Business Insider",
+    "title": "Government backs down on Companies House rules for small firms - The Times",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbTdBWUNIUl9zUmY0dGx6ZTVOdXBmZHdzc09yVk5YVVBzWWtCVUZzb1U3ZkY5c1VJYlEwc05oOE9UbmNaSk5hQWFnbHNyNmJwSkZtQkhGRUd5SWRfWTBNV1pQdnhyOEYxM0NhUkRmMWhsdk40WDZvWmRfRDJOR3VrUU9xNFBONXhSMUgxMFgyc0lwVm8telhKdERkc2xvaFZnd2lUOFBfVXhUVi1CdW12Rk8yYU1YcHd3cF8tRlFDU0ZZSFlKUXNubktB?oc=5",
+    "summary": "Government backs down on Companies House rules for small firms The Times",
     "score_hint": 0.0,
     "opportunity_score": 40.0
   },
   {
     "source": "google_news",
-    "title": "Allegheny County's mandate on paid parental leave draws strong reactions from small businesses - CBS News",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVHFITGdva3phVC1BV1U5UkJpQlBVRlFZQXRWOGdkc01LemxKZ3FaLURJX2hjeDhIOGZaSGpXSGJTVXFYZVJzdWdzVUJtcEdyV20tSElsTkVDSm04NWtwcHZpUnI2OEZ1ZTJmeG5rY1pJaEU1SlZ4N2FOQWM1ZVplQjFiVVEwcXR2TjMwdTN5aFdOelJiMjFpd09n?oc=5",
-    "summary": "Allegheny County's mandate on paid parental leave draws strong reactions from small businesses CBS News",
+    "title": "Oil Tops $116 as Britain's Small Businesses Face a Fight for Survival - The National Law Review",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNlJuRDFzdjFBaVRiaUdseENZQ2xWUTR6NWJWQjJNRjNNQ1dlaS14RGUydWV5ZDNNQXZzeXZVWU9xb21ZWDJ3elAwZVFHdjBweVB2R3RwNDlxX1ZwbDNzUkRxbmQzTW1IX1pLQWhWR0RncFotU2o4MDlfelVPSnFlSUtTT29aNlUyb0haRjJ4SmNVc1FLWktQZmxfOWxEM1E?oc=5",
+    "summary": "Oil Tops $116 as Britain's Small Businesses Face a Fight for Survival The National Law Review",
     "score_hint": 0.0,
     "opportunity_score": 40.0
-  },
-  {
-    "source": "google_news",
-    "title": "Jake: Why Gov. Ferguson’s B&O claim is meaningless for small business owners - MyNorthwest.com",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SNWMtSGZVbHpqZW5CLW1mX19lM2NGNXRCYW1raEV6VkF3YTBDVzNfZDdwS0x5Q2hibWx2VlZEOXFhQ2RtSTlTb2tBd3NTbUZMTENoTFBzVUg2R0tNU21PSjlwbEptdFBvdVF1QW1ZMnVhaURTY2otQWhNSQ?oc=5",
-    "summary": "Jake: Why Gov. Ferguson’s B&O claim is meaningless for small business owners MyNorthwest.com",
-    "score_hint": 0.0,
-    "opportunity_score": 40.0
-  },
-  {
-    "source": "google_news",
-    "title": "Watch Small Business Resilience Boosting Growth - Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMW90VXNDUzlEdGVyMlJmU3J0RlNUUXY1cUNGVWVWT0ZJSHdHZHoyLTVRTGlfR3VKcVRhVDdKWlNUbGVPMXppZy0wampsSFFfbFFaU2Rna01rcXdLYmpWeUd2STg3WkMxOHFOQU1VV0l6SUo4NWJ0LXNUTGJWakxOek1CWEZRRUNWRE1RNl9sZUFDWWJpdTZZVFBB?oc=5",
-    "summary": "Watch Small Business Resilience Boosting Growth Bloomberg.com",
-    "score_hint": 0.0,
-    "opportunity_score": 38.2
   },
   {
     "source": "reddit",
