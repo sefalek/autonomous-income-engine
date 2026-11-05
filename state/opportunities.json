@@ -1,19 +1,11 @@
 [
   {
     "source": "reddit",
-    "title": "Trading API discontinued for photos. Are you affected?",
-    "url": "https://www.reddit.com/r/eBaySellerAdvice/comments/1xlu6j0/trading_api_discontinued_for_photos_are_you/",
-    "summary": "My main client sells used auto parts on eBay using custom database software we made and maintain for them. Their software is based on ColdFusion/Lucee and MS SQL Server. They have been using the Trading Application Program Interface (API) to upload their listings from this software. Until a few days ago, their business processes also used the Trading API to upload photos of their products, with eBay then hosting these photos on its servers. eBay, with ample warning, shut down the photo upload aspect of the Trading API on October 28th, 2026. They provided an alternative: their Media API set of solutions. So, we needed to substantially modify the business software for our client, to migrate the functionality from Trading API to Media API. We did this and it's basically working by now, but it was relatively difficult to get this implemented. This weekend, I was musing aloud to a friend that perhaps there might be other eBay sellers with the same urgent problem. If so, they might be potential clients for my small software business. Her response was that the market that I'm aiming for essentially doesn't exist, as in, it's vanishingly tiny. She might be right, but I'm writing this post to ask if there is anyone out there who: Is an experienced eBay seller ... Is using custom database software to upload their listings and product photos to eBay ... Is using the Trading API ... Is using ColdFusion/Lucee. Has not yet migrated the photo upload and is having a hard time ... I expect everyone on this subreddit to qualify for point 1. I'm curious as to how many folks reading this post qualify for point 2, and I'd like to understand better what software is being used, and the tools in which these were developed, and by whom. I'm also curious as to how many qualify for point 3. Trading API is an \"oldie but goodie\" in my opinion but eBay seems eager to kill it off. I'm curious as to how many qualify for point 4. I have a lot of respect for ColdFusion but it's by now far from mainstream. Independently, I'm curious as to how many qualify for point 5, and how you're dealing with it. submitted by /u/BravoUniformTango to r/eBaySellerAdvice [link] [comments]",
+    "title": "[ITALY] Looking for AI tool recommendations for a small creative agency",
+    "url": "https://www.reddit.com/r/agencynewbies/comments/1xofpd8/italy_looking_for_ai_tool_recommendations_for_a/",
+    "summary": "Hi everyone, I’m a partner at a small creative agency in Italy. We’re a team of 7, working mainly on branding, graphic design, photography, video production, social media and events. We’re reviewing the AI tools we use and trying to figure out what makes sense for the team. At the moment, we have a few subscriptions that overlap, and I'd like to simplify things a bit. Here's what we're currently using: Google Workspace Business Standard (Drive, Gmail, etc.) Notion Plus Canva Pro Gemini, included with our Google Workspace plan, but never used We're looking at two main areas. 1. An AI assistant for all 7 people We'd use it for everyday work: research, writing, brainstorming, preparing client proposals and presentations, analysing documents and helping with internal workflows. Claude Team is one of the options we're considering. I'd also like to understand whether ChatGPT Business would be a better fit, or if we're already getting enough out of Gemini. 2. A visual AI tool for 2–3 people This is where we're still a bit undecided. Ideally, we'd like a platform that can handle most of our creative AI work: Image and photo generation Image editing Video generation and animation Audio and sound generation So far, I've looked at Magnific, Runway and Krea. They all seem interesting, but it's difficult to compare their actual capabilities, especially when it comes to using them regularly for client projects. Our budget for this is around €100-150/month for a single-user access, and if we'll need more, expand to other users. A few things I'd like to hear your thoughts on: Is Claude Team worth it for a 7-person agency, or would you go with ChatGPT Business or Gemini? Which visual AI platform gives you the most flexibility across images, video (and audio, optional)? Are there any other tools you'd recommend looking at? If you work in a creative agency or studio, which AI tools have actually become part of your daily workflow? And which ones have you stopped using? I'd be particularly interested in hearing from people who use these tools for paid client work, rather than just experimenting with them. Thanks! submitted by /u/richi_covelli to r/agencynewbies [link] [comments]",
     "score_hint": 0.0,
-    "opportunity_score": 78.0
-  },
-  {
-    "source": "reddit",
-    "title": "Building \"VoiceKhata\" — An AI ledger for local shopkeepers with ZERO UI. They just send a WhatsApp voice note.",
-    "url": "https://www.reddit.com/r/StartUpIndia/comments/1xlualy/building_voicekhata_an_ai_ledger_for_local/",
-    "summary": "Hey r/startupindia , I’m currently building an MVP for a grassroots problem I’ve noticed with local MSMEs (Kirana stores, hardware shops, local vendors) and I need some brutal feedback from this community. The Problem: Most small shopkeepers still rely on physical diaries or mental math for tracking udhaar (credit). Existing apps (like KhataBook or OkCredit) are great, but they require the merchant to open an app, navigate a UI, type out names, and enter amounts manually. For a busy shopkeeper during peak hours, this friction is too high, so they default back to pen and paper. The Solution: VoiceKhata We are completely killing the \"App UI\" learning curve. The entire system works over the WhatsApp Business API. The merchant simply sends a voice note to our WhatsApp bot saying: \"Ramesh Sharma kirana wale ka 5000 udhaar jama kar lo.\" (Or they just click a picture of a handwritten bill). Our backend takes this unstructured data, processes it via AI, and automatically updates their structured ledger in real-time. The Tech Stack (Under the hood): Frontend/Interface: WhatsApp Business API (Zero app downloads for the merchant). Backend: FastAPI running on Google Cloud Run (Serverless, scales to zero to save costs). Database: PostgreSQL on Cloud SQL. The Brain: Google Vertex AI (Gemini 1.5 Flash) for multimodal processing (converting local Hindi/Hinglish audio and bill images into structured JSON). Current Stage: We are currently in the MVP phase and are about to start a closed beta test with 50 local merchants to validate our GCP serverless architecture and AI accuracy. I'm also preparing to pitch this for an SSIP (Student Startup and Innovation Policy) grant. My Ask: Founders/Devs: Are there any glaring holes in my serverless architecture? (Especially concerning WhatsApp webhook timeouts during Cloud Run cold starts). General Feedback: Will merchants actually pay a small SaaS subscription (SaaS for Bharat) if we completely remove the data-entry friction, or is the habit of writing in a diary too deeply ingrained? Tear it apart, roast it, or let me know what you think. Happy to answer any technical or business questions in the comments! submitted by /u/IndependentMobile516 to r/StartUpIndia [link] [comments]",
-    "score_hint": 0.0,
-    "opportunity_score": 68.0
+    "opportunity_score": 66.0
   },
   {
     "source": "hacker_news",
@@ -22,6 +14,22 @@
     "summary": "with all the website builders that are available, is there any money in doing web design for small businesses? I had a prospective customer whom I was offering website design and maintenance service. He ended up doing it all by himself using an online website builder. I suddenly felt like I don't have anything to offer that business. I feel so discouraged. I'm a decent programmer but it seems everything small businesses need is already built and is way polished that I could build. What should I do?",
     "score_hint": 411.0,
     "opportunity_score": 65
+  },
+  {
+    "source": "reddit",
+    "title": "How are small creative agencies using AI? Looking for advice on tools and workflows.",
+    "url": "https://www.reddit.com/r/AgencyGrowthHacks/comments/1xofpzk/how_are_small_creative_agencies_using_ai_looking/",
+    "summary": "Hi everyone, I run a small creative agency in Italy. We're a team of 7, working across branding, graphic design, photography, video production, social media and events. We're looking at how to introduce AI into our daily work. So far, we've been using a few different tools, but I'd like to build a setup that makes sense for the whole team and doesn't add unnecessary costs or complexity. Our current tools: Google Workspace Business Standard Notion Plus Canva Pro Gemini, included in our Google Workspace subscription We're considering Claude Team for all 7 people as our main AI assistant. We'd use it for research, copywriting, brainstorming, client proposals, presentations and internal workflows. For the creative side, we're looking at a separate platform for 2–3 people, mainly for image generation, photo editing, video and animation. Ideally, we'd also like some audio generation features. Our budget for the visual platform is around €100/month. I've been looking at Claude, ChatGPT, Runway, Magnific / Freepik and Krea, but I'm interested in hearing what other agencies are actually using. A few questions: How have you integrated AI into your agency's daily operations? Do you use one general-purpose assistant across the team, or do people have separate subscriptions depending on their role? Which tools have made a real difference to your team's productivity or the quality of your work? How do you handle AI-generated images and videos in commercial client projects? If you were setting up an AI stack for a 7-person agency today, what would you pay for and what would you skip? I'm particularly interested in practical experiences from small agencies. How much time do these tools actually save? Have they changed the way you price or deliver projects? We're trying to make some decisions before committing to several annual subscriptions, so any advice from people who've already gone through this process would be useful. Thanks! submitted by /u/richi_covelli to r/AgencyGrowthHacks [link] [comments]",
+    "score_hint": 0.0,
+    "opportunity_score": 62.0
+  },
+  {
+    "source": "reddit",
+    "title": "Claude Team for a 7-person creative agency.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xofn0g/claude_team_for_a_7person_creative_agency/",
+    "summary": "I run a small creative agency in Italy with a team of 7. We work on branding, graphic design, photography, video and social media projects. We're looking at introducing Claude Team across the agency. We already use AI quite a bit, but most of our current setup is made up of separate tools and I'm wondering whether Claude could become our main assistant for day-to-day work. Here's what we currently have: Google Workspace Business Standard Notion Plus Canva Pro Gemini, through our Google Workspace subscription We'd mainly use Claude for research, writing, brainstorming, client proposals and presentations, document analysis and internal workflows. I'm leaning towards Claude Team, but before committing to 7 seats I'd like to hear from people who have been using it with their teams. A few questions: How does Claude Team work in practice for a company with 7 people? Is it worth paying for a seat for everyone? Do you actually use shared Projects and team knowledge, or does everyone end up working separately? Have you run into usage limits or other restrictions that get in the way of everyday work? Has anyone switched from ChatGPT Business to Claude Team, or uses both? What made you choose one over the other? We're a creative agency, so most of our work involves client projects, proposals, content and internal organisation. We don't need AI for software development or particularly technical tasks. I'm trying to understand whether Claude Team would make a real difference to how we work, before rolling it out to the whole team. Interested in hearing about actual experiences, including the downsides. Thanks! submitted by /u/richi_covelli to r/ClaudeAI [link] [comments]",
+    "score_hint": 0.0,
+    "opportunity_score": 58.0
   },
   {
     "source": "hacker_news",
@@ -72,36 +80,12 @@
     "opportunity_score": 52.2
   },
   {
-    "source": "google_news",
-    "title": "SBA chief says small businesses need relief from tax and regulation fears - Fox News",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12RXVMZjRUakNMZGdNYjRpb1RpdkdRRmlWb2tTLVpGa1gxT3IzQmxfRHRzU2NaVk5pMzQxa1l1WWdSRjZyMVBKcnl0akNvLUtzX3R0SXRR?oc=5",
-    "summary": "SBA chief says small businesses need relief from tax and regulation fears Fox News",
-    "score_hint": 0.0,
-    "opportunity_score": 50.0
-  },
-  {
-    "source": "reddit",
-    "title": "Musóna Monday: 1.0.8 is on its way 11/2/2026",
-    "url": "https://www.reddit.com/r/Musona/comments/1xlu6ua/musóna_monday_108_is_on_its_way_1122026/",
-    "summary": "Happy Monday, everyone! It’s been a busy couple of weeks behind the scenes, so here’s what’s new and what’s coming. 📱 Version 1.0.8 is in review The new version is with Apple and Google right now and should reach your phone in the next few days. It brings the latest fixes and improvements to iOS and Android, and it’s also the version that carries our new store pages, below. 🌍 Musóna in more languages We’ve translated our App Store and Google Play listings, so people can read about Musóna in their own language before they download: App Store: French, Portuguese (Brazil), Japanese and Korean Google Play: Spanish, Portuguese, German, French, Japanese and Korean The store pages also have fresh screenshots that show what Musóna actually feels like: a companion who has a life of their own, the Our Story scrapbook, and memory that picks up where you left off. 🎙️ Heads-up: companion voices are changing The company behind our current voice technology is shutting down its voice service on November 13, so we’re moving to a new provider before then. Voice messages will keep working, but your companion may sound a little different afterwards. If you designed a custom voice on Premium, we’ll share how to pick or design a new one once the switch is done. We’ll post here once the switch is live, and if a new voice doesn’t feel like them , tell us. 🔧 Smaller fixes and improvements Scrapbook entries no longer show odd punctuation-only captions. There’s now a public page explaining how to delete your account and data: musona.app/delete-account New comparison pages on the website (vs Character.AI , Chai and Candy AI) for anyone a friend is trying to convince 😄 We added privacy-friendly product analytics to the website, so we can see which pages confuse people and fix them. The text of your chats is never part of it, and the privacy policy lists exactly what we use. 💬 Now, over to you If you could change, add or improve one thing about Musóna, what would it be? A feature you keep wishing for, something that annoys you, something your companion does that you’d love to see more of. Big or small, drop it in the comments. I read every one, and plenty of past suggestions are in the app today because of you. Thanks for being here. ❤️ submitted by /u/LlamaEagle to r/Musona [link] [comments]",
-    "score_hint": 0.0,
-    "opportunity_score": 49.0
-  },
-  {
     "source": "hacker_news",
     "title": "Small business rescue earned banks $10B in fees",
     "url": "https://www.npr.org/2020/04/22/840678984/small-business-rescue-earned-banks-10-billion-in-fees",
     "summary": "",
     "score_hint": 490.0,
     "opportunity_score": 48.6
-  },
-  {
-    "source": "reddit",
-    "title": "Weekly Self-Promotion Megathread",
-    "url": "https://www.reddit.com/r/Middleburg/comments/1xlu7zu/weekly_selfpromotion_megathread/",
-    "summary": "​Welcome to the r/Middleburg Weekly Self-Promotion Megathread! ​Got something to share? A project you're proud of? A business you are building? A creative endeavor you want the community to see? Every Monday, this megathread is open for you to drop your links, pitch your ideas, and show off your hard work. ​Feel free to use this space to shamelessly plug: ​Your small business or local startup ​Your side hustle or Etsy shop ​Your art, garage band, or podcast ​Your food truck or pop-up event ​⚠️ The Ground Rules ​Keep it here: This is the only time and place on r/Middleburg where advertising and self-promotion are allowed. Anything shared outside of this thread will be removed and may result in a ban. ​Keep it SFW: Promotion of OnlyFans or pornographic sites of any kind is strictly prohibited, including in this thread. ​Keep it kind: Please keep our standard community guidelines in mind when posting. ​Support local. Discover cool projects. Hype each other up responsibly. If you have any questions or need assistance, please contact the mod team. ​Happy Monday! ​— The r/Middleburg Mod Team submitted by /u/relay-app to r/Middleburg [link] [comments]",
-    "score_hint": 0.0,
-    "opportunity_score": 48.0
   },
   {
     "source": "hacker_news",
@@ -112,19 +96,19 @@
     "opportunity_score": 47.4
   },
   {
+    "source": "reddit",
+    "title": "I left art school. Now what do I do?",
+    "url": "https://www.reddit.com/r/animationcareer/comments/1xofkje/i_left_art_school_now_what_do_i_do/",
+    "summary": "Hi friends! I think my title deserves some more context. So I dropped out of college right before my last year a year ago, eventually \"leaving\" my Bachelor's Degree in Animation in the dust while I recover mentally and physically. Academic stress had taken such a huge toll on me during my college years that I already had a few hospital trips and check-ups before I decided to call it quits before something medically worse happens. It's been a year now, and during the whole year I've actually created a small business for myself (artist alleys and selling my own artworks, even starting my own mail club eventually). It's been nice, but my heart has always been with the animation industry. I grew up with it. I adore it. I love creating things with animation in mind even with my horrible experience in college and despite the doom and gloom and the terrible job market. The thing is, I REALLY want to enter the industry again. Create for animation again. But everytime I think about it I end up feeling nauseous and get all anxious. I wasn't able to pick up a pen and build a portfolio suitable for animation work for the whole year with how negatively I react to the thought of making it. Maybe it's a bad case of Impostor Syndrome, but what do you do when fear and doubt gets ahead of you? Do people think less of an artist in the animation industry when they haven't finished school? Were there people who went through the same thing in the industry? What can you advise to someone like me? I seriously want to go back to animation but it really kills me wondering if I'm good enough or deserving of it. submitted by /u/pommegrate to r/animationcareer [link] [comments]",
+    "score_hint": 0.0,
+    "opportunity_score": 46.0
+  },
+  {
     "source": "hacker_news",
     "title": "Claude for Small Business",
     "url": "https://www.anthropic.com/news/claude-for-small-business",
     "summary": "",
     "score_hint": 541.0,
-    "opportunity_score": 45.0
-  },
-  {
-    "source": "reddit",
-    "title": "Christmas seamless tiles for all-over prints, and where each kind prints best",
-    "url": "https://www.reddit.com/r/printondemand/comments/1xlua30/christmas_seamless_tiles_for_allover_prints_and/",
-    "summary": "Patrick here, I run ThreadedTreasuresArt on Etsy. With Q4 orders picking up, I put ten of my holiday sets into one Christmas collection: 91 seamless patterns, from gingerbread and nutcrackers to poinsettia and holly florals, candlelit Victorian interiors, silver lanterns, ribbon bows and gold art deco tiles. Where they print well: the busy gingerbread and floral repeats suit all-over prints like pajama pants, throw blankets and wrapping paper, because a dense pattern hides the panel joins. The calmer lantern and gold tiles work better on mugs, ornaments and tumblers, where one or two repeats show. A sizing note: each tile is 2048 px, about 6.8 inches at 300 DPI. On a blanket, repeat the tile at that size instead of stretching one tile across the panel. Before uploading, tile it 2x2 and zoom to 100% on the joins; a true seamless tile shows no line. Small-business use is included for up to 100 finished products, so you can sell the cards, invitations, tumblers and journals you make. The digital files themselves are for your projects only and may not be resold or shared. The collection: https://threadedtreasuresart.etsy.com/listing/4605456229 Happy to answer sizing questions. submitted by /u/pythic to r/printondemand [link] [comments]",
-    "score_hint": 0.0,
     "opportunity_score": 45.0
   },
   {
@@ -137,33 +121,81 @@
   },
   {
     "source": "reddit",
-    "title": "smallbusinessindia",
-    "url": "https://www.reddit.com/r/smallbusinessindia/",
-    "summary": "Every business starts small. A community for Indian small business owners! Ps. Please don’t use the sub as your personal store front [link]",
+    "title": "Small Business in Canada",
+    "url": "https://www.reddit.com/r/SmallBusinessCanada/",
+    "summary": "News, questions, and answers about starting, owning, and growing a small business in Canada. Under new management as of 2020-11-17. [link]",
     "score_hint": 0.0,
     "opportunity_score": 43.0
   },
   {
     "source": "reddit",
-    "title": "Requesting: Variable / Repay: Open for discussion / Bank transfer / Repay date: Discussion - Loan to help with my business start up - UK - ID Proof available",
-    "url": "https://www.reddit.com/r/loanhelp_/comments/1xlu8ta/requesting_variable_repay_open_for_discussion/",
-    "summary": "Willing to prove that I'm trust worthy. I have a small time frame to start making cash from a business I'm starting before my now unemployed misses starts worrying. We've just had another baby so she can't get a job. This isn't my first business, and I closed my last successful side gig to make this one. Due to start selling within 2 weeks, but a loan would help alot with running paid ads. The more willing to be loaned and for longer, the more I'm willing to Repay. New on here so willing to help prove I'm legit etc Business success does not prevent repay. I have £5K and get paid over £3K every month from my current job. Thank you submitted by /u/EastBumblebee2000 to r/loanhelp_ [link] [comments]",
+    "title": "38M – Skip the interview phase. Talk to me like we’re already old friends.",
+    "url": "https://www.reddit.com/r/MakeNewFriendsHere/comments/1xofqmj/38m_skip_the_interview_phase_talk_to_me_like_were/",
+    "summary": "Let’s be honest: small talk is exhausting and usually fizzles out after three messages. Let’s skip straight to the part where we actually know each other. ​Drop into my DMs mid-story. Tell me what’s stressing you out this week, what goal you're currently grinding toward, or the last book or show that completely hooked you. When I'm not on the clock, I keep busy in the gym, in the kitchen, or working on my own creative projects and right now, just waiting for enough snow to go snowboarding. Whether you want to dive into a heavy topic right off the bat or just trade daily banter and random updates, I'm game. ​Skip the \"hey\" and tell me what's actually on your mind today. Please be over 35years old and EST timezone :). submitted by /u/This-Respect1625 to r/MakeNewFriendsHere [link] [comments]",
     "score_hint": 0.0,
     "opportunity_score": 43.0
   },
   {
     "source": "reddit",
-    "title": "Biggest considerations before choosing an expense app?",
-    "url": "https://www.reddit.com/r/AccountingDepartment/comments/1xlu8dj/biggest_considerations_before_choosing_an_expense/",
-    "summary": "If you had one week to test an expense app for a small company on QBO, which receipts would you throw at it? A clean restaurant receipt seems too easy, I'm thinking faded thermal paper, a multi page hotel folio, a purchase where the business purpose isn't obvious from the merchant. What else usually breaks these things? submitted by /u/Double-TroubleSon to r/AccountingDepartment [link] [comments]",
+    "title": "The AI tools that actually saved my small business time instead of wasting it",
+    "url": "https://www.reddit.com/r/it/comments/1xofpfx/the_ai_tools_that_actually_saved_my_small/",
+    "summary": "submitted by /u/Ok_pettech to r/it [link] [comments]",
     "score_hint": 0.0,
     "opportunity_score": 43.0
   },
   {
     "source": "google_news",
-    "title": "The Easy Money Offers That Disguise a Deathtrap for Small Businesses - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbFdJd3ZYeFMyWnNIMzJrU2s5NUs5b3dldi0xRC13dWlEWDl2alUxS20tZ1pfQjk2bXpWSnhWSzBvNFpWZ2gtWVFaWmM3bXNXY0Y5SUJuQzd2TjRwZ1FXYmhOUUpkYXFPbHJ3T1d1aFZsRm9QT0lKT2p3bVU4Tno0ck40bnU1MUQyWkZVMW4waWw5YlJUbTRRUA?oc=5",
-    "summary": "The Easy Money Offers That Disguise a Deathtrap for Small Businesses WSJ",
+    "title": "The AI economy is a small-business economy - Fast Company",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSjZ2R0pmZ3dXS3RqRDlNWm9scHhCRlJPTENqenNlU1BXVjJRZ1VMaThVOWRhQzdnTFhmck0wZEZGMlpWMEpOdzNfeTFJYnJtNzUtQlVTdlRxTHBJMmF5UG1zNk9fSVNSQUw0czdBNFVfVm9sWWRQbWdUV1JNYjl1dktQRjVxQQ?oc=5",
+    "summary": "The AI economy is a small-business economy Fast Company",
+    "score_hint": 0.0,
+    "opportunity_score": 40.0
+  },
+  {
+    "source": "google_news",
+    "title": "Is Sysco Making Every Restaurant the Same, or Saving Small Business Owners? - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPODR4RmF5Q2dCajVDZUl2Z1pxMmZGN3dQdFVxMUdkRmhNVURLNW51QzhGLUZvZGVqUU9ROHNfYXk2NjRKTWk2QWk5eDBRUlYxNVB2OUY3RFA5STdmblJ4cS03eDBqWmxodGNPNDZpZHpDSDdwVzN3RFowQlN2QWFlWjNQRWJpZmJTY3liYk5WVQ?oc=5",
+    "summary": "Is Sysco Making Every Restaurant the Same, or Saving Small Business Owners? The New York Times",
+    "score_hint": 0.0,
+    "opportunity_score": 40.0
+  },
+  {
+    "source": "google_news",
+    "title": "‘In the trenches’: Wisconsin’s struggling small businesses could turn a Trump ally’s district blue - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPREd0NmJPNmJJNTFnS29ZTlRrNFpIRDJSWWRQNFdrdWFWdGRTUzlpVjIxNHBGYm5LdS1lVlMtVF82bzkzQWgzTDBid05KZGhxMXZhNlcwREtRQzNNNUZrQi0zUm1CMjBtN2xBRERfa3ZOSkNNeGRfSzYwMXQxcDV6a1B0T3ltSHRQMFJtaDFhTElfaWlVMEE?oc=5",
+    "summary": "‘In the trenches’: Wisconsin’s struggling small businesses could turn a Trump ally’s district blue The Guardian",
+    "score_hint": 0.0,
+    "opportunity_score": 40.0
+  },
+  {
+    "source": "google_news",
+    "title": "Hacked Facebook Marketplace account costs Tazewell small business owner thousands - WATE 6 On Your Side",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Xb3Zpcmg5T0Z0QkotUTVDWDhsd29lMTNNVFFUbmFRQnBMa1k3UmlFNzdXb1FZckRvTWswQl9QeUVYQWpDRHh5aVJnemJBUllxUFY3cUJ1Wlp0LXB5b0VvSV9SeElHNFZicmEtblNERVJ6Q1QtWG1XZmJR0gF_QVVfeXFMT2tuWDcwOTJyNzFxWEVmS0gybWZqS1pjcXZvdnJ4ZUpSQ0c4QVNzcVI5VHBMaHVkQ3VPd1Z4dWtKXzVmNTVnbV9nUm12SS14SV90Z3ZTbnFkbUh6M1RrNXVkdU5YOTlWR3JZaVFJc0tzZURUbktjeVFtZzVTelh1OA?oc=5",
+    "summary": "Hacked Facebook Marketplace account costs Tazewell small business owner thousands WATE 6 On Your Side",
+    "score_hint": 0.0,
+    "opportunity_score": 40.0
+  },
+  {
+    "source": "google_news",
+    "title": "Agriculture, small business shine in debut Ohio Proud holiday gift box - WSYX",
+    "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQV1JwbTc4a3hydkozTVdPaDh6emRhbnY5OFpvWEhnQTZkNjFHbldGblh6ZHVldFNzQjJWU3BkR005WG5mOWxWWGJXLV9DYlFaOVlSNkZQaVVOYmxQU0hwQ0pBamkzQ0lDZklWMm9JTUxDLXNHSUVOM09neGw2TDFfaFBnVHJVT1BObkI0UUtaWW1IME5HUFNWWmVpOENiby1BLWFoTlpWVkYxWk52ZFhJZ3llYnlhVHVaQzU4X3ZYM1p5WUR6X1RObnRiS2c0cmRveDRSVnBma01YV2RDNkQ5MVlBYkhmSExJaU96dHd1U1BiWmdPekJiWXRtYlY3RmQzT2h1ZHRVel9GV2J1aEo3eE1JZVROOHkwVXBnWFA3ZjNYOW5LUHdxNFczNWI1aXRrZmE0?oc=5",
+    "summary": "Agriculture, small business shine in debut Ohio Proud holiday gift box WSYX",
+    "score_hint": 0.0,
+    "opportunity_score": 40.0
+  },
+  {
+    "source": "google_news",
+    "title": "Menasha businesses still struggling with insurance amid FEMA and SBA support - WLUK",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNmNoRFp0dGs4YUQxU1JoS2JicnRKU2lpMmRiT3JxVWJzeDJ5UktzejFyZmZCX2VDZDBMZ1EzemZYTFg5ZnVyUnBtSWV6cEZoSjNCVFRLY0M5dWprRm1pVXlYQUFBQVhfSVJoal9zeU9DRS1jWFExSEVITzYtajFTNkZoM1dET3FOSE5ob09zR3I1XzFHMThISVplUHNrVWtsRkNVMnZxWFh6dmw0SWdDVw?oc=5",
+    "summary": "Menasha businesses still struggling with insurance amid FEMA and SBA support WLUK",
+    "score_hint": 0.0,
+    "opportunity_score": 40.0
+  },
+  {
+    "source": "google_news",
+    "title": "SBA Launches Whistleblower Program to Combat Pandemic Loan Fraud - Small Business Trends",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR2t6U1l6TDVkYjNlYVdNaTRrZXNBMjczYzJzUURWd2N2Wk5iNXhMT0M3UmlDeDNEWWNWSXB0c1IzQ2hQOVRIZmVnbkt0SFR6M0dCNEI2ZGhzcUFHMmItSF81eUd5WTBsX2h5X21KS3pSdlltNmF0eEtTbDUteEhtSzVvWDExZGFoQmRhV3o0WnUzcnhhQm1N?oc=5",
+    "summary": "SBA Launches Whistleblower Program to Combat Pandemic Loan Fraud Small Business Trends",
     "score_hint": 0.0,
     "opportunity_score": 40.0
   },
@@ -177,57 +209,25 @@
   },
   {
     "source": "google_news",
-    "title": "Flooding sends water into Arts District small business shops - FOX5 Vegas",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaU5Dc194ZHhueGxQcXFmdlNtc3pMSmN2Y1Q0VERLOWd4ZWRtNE81UXBqRS1yLXVLWDJ4VWtadW5GX3FETnNHTW5hQTVIalhMVXZWLVl5SHNtTTVIc3lKckk4SXhmRHZtem0xQjZ4ZG4zbkhNSkk0M09fdmg3NXloWHBXV3ZjRWl2NjhqaGxoZWk4bm9JNHBPeE0zTXJxOVXSAbMBQVVfeXFMTzlnMnlrcnRFcDJBTnVPbVNITFVOTjhnNzJ0OHhEQTdRTGdpSHFPWml2ZDEyYXlscVdOZFIwVVFKNjN1ZDJuZ05KNEx0Nm1nV0FXOUNyeWF5ZGl6MlVUQjNCZTk4amdOU2dvbnFkNncxSXY3VW13a21WSTFEUExRRGYyQjh5QkVzd2tZbUUzeVN6c29DMDczWWw3ajNaWjFCcW1ZMDVfWG5lVlJzQkNiMC1PODA?oc=5",
-    "summary": "Flooding sends water into Arts District small business shops FOX5 Vegas",
+    "title": "The Easy Money Offers That Disguise a Deathtrap for Small Businesses - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbFdJd3ZYeFMyWnNIMzJrU2s5NUs5b3dldi0xRC13dWlEWDl2alUxS20tZ1pfQjk2bXpWSnhWSzBvNFpWZ2gtWVFaWmM3bXNXY0Y5SUJuQzd2TjRwZ1FXYmhOUUpkYXFPbHJ3T1d1aFZsRm9QT0lKT2p3bVU4Tno0ck40bnU1MUQyWkZVMW4waWw5YlJUbTRRUA?oc=5",
+    "summary": "The Easy Money Offers That Disguise a Deathtrap for Small Businesses WSJ",
     "score_hint": 0.0,
     "opportunity_score": 40.0
   },
   {
     "source": "google_news",
-    "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV3ZzM18xM3pSQWxwWmgwQmVwWXFVREVObjZndUZRM1pqZGFjdjNPTlo4Z1NwS3MtMEhjSmZmNUVmVVE4X21oZkhmVWNWRUdjSUlOY1dFU1YtUWNVVmtHTTFOVE0yX05oR3B2SU9GX0x2Z2dacnc4N2xSd1VKM1dEb1hNa2tkZmt4VmZleWY1VEVVWHNZMmJzeDdtb3ROUXZ3YVprZ0ZRaU0xVEFpLTgxMTlHT29QU0hzSUpMMzdvUHZpMGliS05lRzhVNmRmTVFkWFI1Y2RtOEw?oc=5",
-    "summary": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered CoinDesk",
+    "title": "Alabama Attorney General Warns Consumers About Unlicensed Engineers Advertising on Freelancing Websites - Calhoun Journal",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV1VTR3Q2SDVQbkhoWkdBeGdYU0tKUUIzWXlzbEliRFhVd1NUU3ZUNkx1WW83bndVaHJVSFVFcS1jTi1sTzFyeUNQZGVLVU1lN001bDdwMFZYOXIzUlV0OERyR2dtWVRNTHNpemgxcTFteHhONzYyRk01U2E4OXJ5bGlITmlCQktLTUNpYTBGZ1U1amxlb21XRnZKdHdNVjgtdGZwYVhwam12VHpGdEJzWmVZUlFHVXNHYWNDV0VpX1ZrYmpDdTNVc0Z1bw?oc=5",
+    "summary": "Alabama Attorney General Warns Consumers About Unlicensed Engineers Advertising on Freelancing Websites Calhoun Journal",
     "score_hint": 0.0,
     "opportunity_score": 40.0
   },
   {
     "source": "google_news",
-    "title": "Melissa Stewart U.S. Bank Jessica Alba Takes U.S. Bank’s New Card Campaign Into Real Small Businesses - BuzzFeed",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaHhkSjVsYzM1VEY2RzFBcVNWejBJSVFMdTdPOFc2bmtuaThtYWZPdmRnR2Y3TGdoRngwZW8zZ183SzRobUZnTlhrT0w3bDBtNDdaOFNKTlhsM1VrWVhpc25KT09CUG9VOVZWVFRsUHA3Z2c4QWpnRHJrNnBhdXdhb2RMUTllN0s3Z092cTRoTjJZM2I5TEhnQktIc21WOFVNRTBfZnNJekc1ZnFrdzhST1A0ZWNjdzdjbGVRTXkzcUhkUQ?oc=5",
-    "summary": "Melissa Stewart U.S. Bank Jessica Alba Takes U.S. Bank’s New Card Campaign Into Real Small Businesses BuzzFeed",
-    "score_hint": 0.0,
-    "opportunity_score": 40.0
-  },
-  {
-    "source": "google_news",
-    "title": "Fresno’s growth boosts small businesses and housing demand as more families put down roots - KMPH Fox 26",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVEpzc3RuaXpFQnRYM2l6RVlZZVR3d3E5ZnZVNDhHU2dnZlhMOHF4R3Awci1ldHJmU05Tc3IzSnFnNXJfOEMxbXVHLU5BSnEtU1hwdGliczczOW1IZkVpS0tyQmM1dnhvaC1HVHdsRDVLZ2lQNkd3N0laaUpEZTU3SXFuUi14bzZVWi14eThQcmo1cFpkWE5paGh1Zm85alNXdFctb21RckZzbGg2N255X0ZIYXo4SjBW?oc=5",
-    "summary": "Fresno’s growth boosts small businesses and housing demand as more families put down roots KMPH Fox 26",
-    "score_hint": 0.0,
-    "opportunity_score": 40.0
-  },
-  {
-    "source": "google_news",
-    "title": "SBA Proposes New Benchmark to Curb Misuse of Innovation Grants - Small Business Trends",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSEtsaVA0RXR5dV9BYUd3MWVKMm9vMUNRY2VBQTd1RTRnZWY3S3YwbnZ1aXFseTFDRlpTMWdGN2xmQ3o0aTFGMnYtQlEyOWw2SlkyZGdacE95c1RuZFotbnR4em5TaGJVMjhyTm1CWFpINXFqc29vQ1hpUnVZdVJibUdRdUtqWklqR1NxT1E1ZDltSEJC?oc=5",
-    "summary": "SBA Proposes New Benchmark to Curb Misuse of Innovation Grants Small Business Trends",
-    "score_hint": 0.0,
-    "opportunity_score": 40.0
-  },
-  {
-    "source": "google_news",
-    "title": "I started hosting candle-making workshops as a fun side hustle. After a layoff, I made it a business. - Business Insider",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdS1QWkFlcGJBeEwwbkJnOGRFMEEzeTFrR0M2dkIyd3hhNkxwNnA2a3BQZDFyeEVQdE5BcVdQM18yNkxIcmZPbjJPSWVXSDl4UWhNQlUyQVNSMzlRSzdPaG5JeS15aGI2emdSenFDS3hULXc4RmtEemlZSDNkNFd6cmhKNXZTYWl3aGN2RkxDVGlzME9yTzgtaGRoMnpZYzN4TjN4QzJB?oc=5",
-    "summary": "I started hosting candle-making workshops as a fun side hustle. After a layoff, I made it a business. Business Insider",
-    "score_hint": 0.0,
-    "opportunity_score": 40.0
-  },
-  {
-    "source": "google_news",
-    "title": "Energy Prices: Big Headache for Small Businesses - NFIB",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOekdNREp3ZVJUTG0xNExKN0cxV3RjM1V1YkRCS0c5TmlpRnEtQTlpc2hnd19SZmlDcjFQTEQ0TTB2QVRBeVV5V3RWY2xxR0taaWhKT1FxYzdXSEticnRXd3B3SVNhd05jYlh1UFZzWmxyQ3RkZnpYTnRrOXVRekpMekNKWWJ1UQ?oc=5",
-    "summary": "Energy Prices: Big Headache for Small Businesses NFIB",
+    "title": "Small Businesses Congratulate Governor-Elect Byron Donalds - NFIB",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWXpTYnpsY2N3Q1FlZHhBX1B6Szg5Y1VHb1ZLWkgyTHAxeTFueTBoRzVZcExUUzZFbHQtdjc2OS15YWZMQlA0dGxMYmlyeDFINzN6azB0a0p5eFhUcGEwenZwZFVkWmI5aE5ScGxxVVpkSE1uRXlRVDhXYVVZR2J1TXc2cmJ3Yjd0NjNBZDNaZkZFYkV1cXBJRDJkM3JvRWFI?oc=5",
+    "summary": "Small Businesses Congratulate Governor-Elect Byron Donalds NFIB",
     "score_hint": 0.0,
     "opportunity_score": 38.2
   },
