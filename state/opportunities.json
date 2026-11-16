@@ -57,17 +57,9 @@
   },
   {
     "source": "google_news",
-    "title": "Small businesses brace themselves for shipping cost surge - OregonLive.com",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNVB6QmxCUmxEMnZYZzlkZWd4MzMtWTFwaGNwWnpXNjZvdmdOYUEzd0VRR3VqSkJIN2k1V1VrYTQ5aFZfQ2hrc3EyZlgyODBPZXBDeFpiWWtQMUJxejdDU05oTUp6cGFoM2pnWEJONFBGTnRVcUN3QVhrQkRlbGVURkxYYThXbkFOQmNUMUY0a0stMkNrTFRUbVlXVnY3VjVlXzhvaGxOOA?oc=5",
-    "summary": "Small businesses brace themselves for shipping cost surge OregonLive.com",
-    "score_hint": 0.0,
-    "opportunity_score": 50.0
-  },
-  {
-    "source": "google_news",
-    "title": "Need small business help in Philly? The city just launched a central hub for that - Technical.ly",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORXgzVGhtZFlkWTl5NEt4NWNuMThjTGFaM3l1RUJWOVAzbGNhWjFBdkZOWWdJMkZneTlyeHdYTm9uMkl0TUtEbmVYb3diTkIwdGJiVGM5elF6THFiQXdGNmVDVXpIOGtXaEZQOEVhNWpuV2xVdFllYUpkRWZaYUVOUnljMTBaRWRSd3VR?oc=5",
-    "summary": "Need small business help in Philly? The city just launched a central hub for that Technical.ly",
+    "title": "IRS Raises The 1099 Threshold To $2,000 For 2026: What Freelancers Need To Know - The College Investor",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX2dTN0VXT0k5dm1QRmEzalVFNFZaXzh2T0o2MmRINGhVaW02bDMzSGRVNFdpXzdVNlNTSlFNWnBBR2V4RTB2RTM5R2gtUVBwMlNKcU14X2dTT21mc0Nzc1E2OFk3MHRUcHg4MnRRMXp5cmMteWUwMnhTcjI4V093RjBCLVBwQ3l4QWZCSw?oc=5",
+    "summary": "IRS Raises The 1099 Threshold To $2,000 For 2026: What Freelancers Need To Know The College Investor",
     "score_hint": 0.0,
     "opportunity_score": 50.0
   },
@@ -80,6 +72,14 @@
     "opportunity_score": 48.6
   },
   {
+    "source": "google_news",
+    "title": "7 ways Claude Code can help you run a small business — without writing a single line of code - Tom's Guide",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRm0tSTBlYjAtOEFBSjYtMG56NTI2MUtFZnRXV0VZdjZhY0pzcjlOSXlnSC1qTVRNeVo4X2dUV0VzU0NOUUtMWnBja3lOV1RXVDlpc00xQTB6OWpiRTR3S3B5bi1GUEIwblJHRUhqTExhSHIxVWR1TzNXZ2g2U194dzZvT0t5aGVTUjJXYks1Ym1TQUtvdTRYdnJVU2hMZGpUVmFkUnp1R0paNGxxZ2lKdmhZYkdLeTRFR0Y2aFhNSXB1Zmww?oc=5",
+    "summary": "7 ways Claude Code can help you run a small business — without writing a single line of code Tom's Guide",
+    "score_hint": 0.0,
+    "opportunity_score": 48.0
+  },
+  {
     "source": "hacker_news",
     "title": "Apple Announces App Store Small Business Program",
     "url": "https://www.apple.com/newsroom/2020/11/apple-announces-app-store-small-business-program/",
@@ -89,9 +89,9 @@
   },
   {
     "source": "google_news",
-    "title": "Small Businesses Can Now Claim a Free ChatGPT Profile to Reach Customers. Here's How to Set It Up - Inc.com",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcmJsYzNiZDlTOTJLM1gwbWJyVzhNWndjbHppQXpRZnhiZVVsX1NvNm5OLXJCSXVmOU11ZUctczI5Z3AzT2xmQkR1OXQ4SFZwU0pjNEp2UWQ2Z3pmSzlqUGtVZGtQQnBSRS1WYTVQUWNoOXlrcTd6TG9UaE1Pc2ctX3Rzd2V3cndFRlNPcGIwRG1sS1dLSzZJclplbmJoUzI2S2RvNnFFQjMxbzduY29sdkZnTlE5aGZyZ2I2VFl0Q0hUVEtFaWd1alBPbkxXTVE?oc=5",
-    "summary": "Small Businesses Can Now Claim a Free ChatGPT Profile to Reach Customers. Here's How to Set It Up Inc.com",
+    "title": "‘Don’t lie to me to get free stuff’: how small businesses are fighting back against influencers behaving badly - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNzVqaFRDRGF6VVllOHd4em0wRU5zdzg3R2ZxTmFzTkxzYTg4S1JXVWFSS3ZFRmJ1VHVyeTItVGwzNnFONGF5UVhManY5dWZSbVAxbkJmMEsxWnlHOVEtMVFJekJ5bHFwZC1rVm5BUWsyVDVyZEVwbk4yTkdOY0xmMHdMcWNHcE9INnFfaWN1OGtVa0p0U01rRXVnTFk3MHRPWHpnWHNn?oc=5",
+    "summary": "‘Don’t lie to me to get free stuff’: how small businesses are fighting back against influencers behaving badly The Guardian",
     "score_hint": 0.0,
     "opportunity_score": 46.0
   },
@@ -105,57 +105,73 @@
   },
   {
     "source": "google_news",
-    "title": "Seven local businesses awarded $56,000 in grants to support local manufacturing - The Ithaca Voice",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaWdpbEE0WTJSd1Y0eVJQbUdOYXoxUDA0eUhRTWdCanM2bWw4d1N6WTFvNThjOElFOVIwaU1iLWNKZVFIQmJEclNQUURPWVNaOHZCYmhtbFBuaERRTWJrM2NaUmlBemI2emp3VVVDMTZaeGhnYzVMdlRNcENnbHc2QjNWN2FWemZCOXY3b3I3Skg0SkgzX3VJSlVpZTlxVFVCMVFzN0ljX2dfZVdfSFQ0?oc=5",
-    "summary": "Seven local businesses awarded $56,000 in grants to support local manufacturing The Ithaca Voice",
+    "title": "30 best freelance websites to find work in 2026 - Hostinger",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yZmxvUzBoSlV6TmFKU3RWS0FSRVhwT0NFUzJvVldIUzJ4OEtJNTltbWItZzVNOVp3MGVoWWQ0d3VibXY4cW1YTzIteE9DNDlUcDdMcVVnWVNsX0l4VnRJWDJJTkJGSXdib0dZUnFKUmw?oc=5",
+    "summary": "30 best freelance websites to find work in 2026 Hostinger",
+    "score_hint": 0.0,
+    "opportunity_score": 44.0
+  },
+  {
+    "source": "google_news",
+    "title": "Mamdani thanks Trump for helping small businesses in NYC, nationwide: 'President has delivered relief' - Fox Business",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSXZDcmh6a2poVWRjXzBzZlk0OWsxWWpBN0xrZmVPblFUUml4eXZIQm55bXhJdWVTbDdFY1ZkLVFWcHN1REFpeDdwNkttdVg1YVNNRzJwRmFqN1N5RGJlak5nTjEzdVl3ZDkzNVpKemdxMktKekxQMXFfSFRZVEtneHdmT3hBa2ZqOFh6SURfR2ZWTmx4MmYwdWFhV2h1UWZHVVNVZDhqRVJfZjBCTW00R1doazl5ZWJCUWViTVpMRVcyUdIBxwFBVV95cUxQMUtPT2xzRjh2NXY2cndvbVFGSTVnSEppZzFpRXpNcEE0UG1tVWZleXJuamJzeWpXczEwelhNT2hGTmpjVkpEM0l6el9CM3FhXzJPUDVNSVdNUEQ3V19fYjNsUlJsV0NlOFpoWWR2OGF5M2hDcDFTS25HSE5WUjdFVkFsdU9HMHBYWS1LUUx2R0ZIOENIV2tSZnVfRmlwQTZjako4QlVXd2F0bVFKSi1OcjNsX1dwYVhOZk5WTTUyeHEyWW5RMTg0?oc=5",
+    "summary": "Mamdani thanks Trump for helping small businesses in NYC, nationwide: 'President has delivered relief' Fox Business",
     "score_hint": 0.0,
     "opportunity_score": 40.0
   },
   {
     "source": "google_news",
-    "title": "U.S. Small Business Confidence Held Steady in October - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUnhNR0xFQXlaMGRNWlp6LVpha2hNSGlxRUxxSTBXR0pyRTk5V2tWS0ZKQ2FUQ29KWHl2c2JDODJzSzRhOElmZVQ5YmR2ZGRuZWpUNHVZSURGV2pNS08xejZ3bGFRRl9QdFhibzlJdmRtUnlzd09DX2ZIWDdSZUFFTy1oUzhSUVhLVzNnNUFJSFRfbVJrTmhTZllsMmxTcmk5MWgyTlQ2bVNWcWs?oc=5",
-    "summary": "U.S. Small Business Confidence Held Steady in October WSJ",
+    "title": "Jodi’s Journal: Small-business closure underscores broader retail message - SiouxFalls.Business",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUlJ6bjVYUGV0OUVZNlQ5ZFlYZHRmSk11bE1XWnpSSzRVU1kzb3BFT0dRT1BkQ1BrN2tOR3J2WmU1WHJfVkIxQkp4ckc4emFEX0p4a3ZTTllYVEQ0ay1HODVxX1VpVWRYYWl2clVjbzdxSW5tb05WSEtlVFl6cnExVzZmMDZNdkZNdUJmSFZQQVk2Zy0zVGh4UWs5TGFHdDdFWWc?oc=5",
+    "summary": "Jodi’s Journal: Small-business closure underscores broader retail message SiouxFalls.Business",
     "score_hint": 0.0,
     "opportunity_score": 40.0
   },
   {
     "source": "google_news",
-    "title": "Inside one couple's small business empire in Nashville's Chestnut Hill - The Tennessean",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORUdRR0cwbnpDZ2VxdVV0SDdHakI5UGFkM2R4aVluMGhVOVNhX1Atb01WMmNQQUFyaUpheUNhcExQSGZ1Z0txU19HdnZNRXlnYnVQVGdHeHctSC1lUVRLM0xRMGhXV2p3elFoM1p4SDZQR2FkbHQ5S00zZFpOTjFJMjV3VDUxRGcyQzNrRFFoMzV0dWtBVDl4LTBuR1dtT1JVRGt0Zg?oc=5",
-    "summary": "Inside one couple's small business empire in Nashville's Chestnut Hill The Tennessean",
+    "title": "5 Black Friday Strategies To Help Small Businesses Drive More Sales - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNWtmNVN1aUwyclQ4VGl6VE56TmRPaThTNF81bHUwYlFmS2dhakk0WExhVHl6bnRoSE1HdTJCZWJBcXUzQWVkUkYwSnVYdkpKdkhmTXJUYTJtWkNRbHRZT2RJMnZPUUZsYmxCQnFqLTQ1RU05TWdNS3JTYTVKTExlRzU2SnJkaEk0bG1Pc2gzVUd6ZHVUbGxtSFlCZjkxUkwwcFo4Y3JxelZHYi1KYXVIc05ZN3JoWXVVTnFCeXhB?oc=5",
+    "summary": "5 Black Friday Strategies To Help Small Businesses Drive More Sales Forbes",
     "score_hint": 0.0,
     "opportunity_score": 40.0
   },
   {
     "source": "google_news",
-    "title": "WATCH: NFIB State Director Discusses Small Business Optimism - NFIB",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObU51enQwS0tXTUg3QXkzbTFGZWtxMW9NRW5FUnpUemoxOG51QWdXUmZuSXhLWW94RUl1NDlsMzZ4UnQzbmRobV9IWkluZDR2dl9idGs5M0JRMHYtbjFGXzZlRFBoekFycVZQa1ltUW1IUjlNZ0xMZ2s3cnBaaWFKT0JPbF9XUHlWUGFaNldBR1FFekVEVkE?oc=5",
-    "summary": "WATCH: NFIB State Director Discusses Small Business Optimism NFIB",
+    "title": "John J. Sweeney Jr., former state senator and longtime federal Small Business Administration official, has died at 99 - Inquirer.com",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWDRVX2I2SXBQQUpBd1dHSEpmU2FFNVozMUJtYndmNGdrQURtVE1kMXN6UlV4aWxGbDZKY3ZDMUczZzNnODJxTkRKeWN1ekptWHlaOWM5VG9VNnVQV1d6eWc5TnQ0WnNyMFRzSHFzWEpNN0ExeTVBV3VlVzlWd2xBYUZLZHNNT3BVanlOQ0tFVmRPcHVjeGlGRUZvbk1xeFVXaGw1R3d1anhRTV9BLXFF?oc=5",
+    "summary": "John J. Sweeney Jr., former state senator and longtime federal Small Business Administration official, has died at 99 Inquirer.com",
     "score_hint": 0.0,
     "opportunity_score": 40.0
   },
   {
     "source": "google_news",
-    "title": "Adobe Launches Marketing Toolkit for Small Businesses - Small Business Trends",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWGcwU0c5VU1leU96QmZ4OXF4aXEtanlNVVdmTFAtVGV4YVdIV2ZIcUxUa0UwNWpLbXJKaVFJRG9laWVzbjROcEktMHRaS19aU2RPZ3l5S0VZMmdpMHlTNGNQakMyQ3JXUi1WeUtQWC1NLVRmSlM2SW5HcDVLZzluUzlpMUhySWY3?oc=5",
-    "summary": "Adobe Launches Marketing Toolkit for Small Businesses Small Business Trends",
+    "title": "SBA Launches National Veterans Small Business Week to Support Veteran Entrepreneurs - Small Business Trends",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVVFRUkFTcklxTWV4a0xVS01odDlzZlE4M2lyOVduaGt1MnZ0SjBxZzNFQWpvMzNsaEZMMUhFYjBuVFBDRWpSQlVCanZNWDFLMzVYSk00NmNmU3FGMWJ1bV9OVVEtZHYwN19qVl9MZGpVMEJ3ZUxLdWpjaVU5bkJkRThFZHNja0ExYXVtMzRuWWNpZ0w1U2hQOU5yZHNFVUl2c1UwX1lpejVhRFdYVkhJcg?oc=5",
+    "summary": "SBA Launches National Veterans Small Business Week to Support Veteran Entrepreneurs Small Business Trends",
     "score_hint": 0.0,
     "opportunity_score": 40.0
   },
   {
     "source": "google_news",
-    "title": "City of Victorville to host Holiday Marketing workshop - Victorville Daily Press",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRXdqQmlqdTE3RjBsZkZLTWVHLXR1dnVyZWRVay1sYkxIS0VYQmU1RTB5cXFGd2NsTVN2aHhkajJiOWF3dEI0Skc5TVJMQ3EwR1BwdjZsOV9HNUFrNnZ6M3dNczVyaktVSGI4VndEN1dGN3lpaU4wS1gtalVwNnFFWUE3Zl9GeEs0SE0yNnlPMFhCSFlLcEszeFRrMXRiS3REekVpUTMwVkU4R1pKVk5iWGVTRVNoVnF4UDlMVVlINm5Hdw?oc=5",
-    "summary": "City of Victorville to host Holiday Marketing workshop Victorville Daily Press",
+    "title": "MakeAndUpdate launches GPT Business to help small businesses claim their business in ChatGPT’s new Business Hub - USA Today",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQmtnc2NsbzZBMUlteElYdHdmT1U1dFBFelE2VFRMVEZpNF9kcUhod3EwaFdrbnZvV2toYTB6ZDFBdDRPc1RZczRmN1J5S1dNTGhzYU9VRUxtbUNjbXVDeXA5X1JrcnVHMmRRTlF2dllEVzd4X0lDOFBUa01raFhkZnJWRXpiVkt2aGdLMGpuR2E1dVVRVmNIRWkxYXdCX21kUFp5dlhtTFlROHB2Zmtxak9NbXZobnNxb1hJTTU2WlFiVkFkUUpUNE85X1ZuMjJ1dmxXSDNhTTdCYUhNMUUzWjZfdDdRZW5PSWpxdEFRb2Z0d3J3?oc=5",
+    "summary": "MakeAndUpdate launches GPT Business to help small businesses claim their business in ChatGPT’s new Business Hub USA Today",
     "score_hint": 0.0,
     "opportunity_score": 40.0
   },
   {
     "source": "google_news",
-    "title": "Open enrollment is squeezing small businesses. Nearly 70% want outside help - Fast Company",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbHdGTTFUZmpWdmxoX25FdUI3REU0YUhEakZ6YTFpa2VUSHM1MmdnbmtYYTE1N2NJckxxbExCVUctRU5sdTRONWVRbkJvck5WUDZJY2ZrME9mVHFqRGFYUURTUTVsQ2pmeU1QdzFCT2R0M0t3aGZLVFZlRkdkTHBOSF9rMnRBdw?oc=5",
-    "summary": "Open enrollment is squeezing small businesses. Nearly 70% want outside help Fast Company",
+    "title": "Bergen County residents recommend these small businesses - Bergen Record",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ1lNbzVxaTU0Y0pmUy1wSldkRFFCNDBMekRFNDdlYUxWYmZZVTlpZV8yV1N1UkVrakhJdlhwZUpDOS02aU8yREktTktadHBrTHBMV3NRa3BCd3gyNFZHalJZTEM4QTNKWUx2djVKTjR1SU9Db1pRYU9MVDdPNW1QUnBZM1lacU9VY25HUDNIYnp5djNzR2RONTVJZFlVN3Q4ekVHT3o2WVdURFlpSnJHcmlSQldGVGVjblVBdFFaU3QxMm81STlvY21BdVR0U1Vzem5UbTVMdmUxV1k?oc=5",
+    "summary": "Bergen County residents recommend these small businesses Bergen Record",
+    "score_hint": 0.0,
+    "opportunity_score": 40.0
+  },
+  {
+    "source": "google_news",
+    "title": "Millions in Nevada small-business grants sit unclaimed as deadline nears - KSNV",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSmtsSG1iV3pydDFRd2dyOVhpb3J3ZGxkN2hVUzQzaFNGMV9LczZ0RXR5TjdEZl9FQ1BPREhMYmIwTng2aEhmbm5HUE43ZmRCOS1kMk1pVkxrZmRzRWlhRGY4WkZGRzZoYVhKVmlLbldwVGFQQjYyNWZLRFBJZWx0OUN5VHNhWEx5UEZmVGEtM2N3amJROU9wVU5WZEM2RDBMUmtjbHZ3?oc=5",
+    "summary": "Millions in Nevada small-business grants sit unclaimed as deadline nears KSNV",
     "score_hint": 0.0,
     "opportunity_score": 40.0
   },
@@ -169,74 +185,58 @@
   },
   {
     "source": "google_news",
-    "title": "Health insurance for freelancers: What to know before choosing a plan - Association of Health Care Journalists",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNzMtbS1XVTBQdURnZ0tTeHM5WUZoejhqMkJILXZzTDhZdGNCMVhJenRDVnF6WnhNNVhoM1RDOGNlLTJNdGlDM2lCWVhrNnJ6SHdaRkVKVHhMTjNzTXpEVDBjTEw4SXBGRkI4QjlKanBkTHhLa3JfcmNtcktyN0IxZQ?oc=5",
-    "summary": "Health insurance for freelancers: What to know before choosing a plan Association of Health Care Journalists",
+    "title": "I moved back to Beijing after studying in New York and Boston. I found my creative outlet in China. - Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNjFSbE8zaHBWVEdxWGdRVUdjRWw4c3EzYml4amJXemg1SUc4VXdqenRGeS1sZE9rWjAyVnBvVG11NTdvMHpqSHpScVRWT1ZudTdfeU9SUDlkcFA3WVdUcTUta1R3ZFc5b3NVS1F0LVk2OUwzQnV4Y19KaThwOHk0WEFyNV9uVXYyaE9kRk1Kb3pzbTJ4OE5PWVhzMWxYVlBiN0RSVQ?oc=5",
+    "summary": "I moved back to Beijing after studying in New York and Boston. I found my creative outlet in China. Business Insider",
     "score_hint": 0.0,
     "opportunity_score": 40.0
   },
   {
     "source": "google_news",
-    "title": "Gen Zers and millennials are rapidly taking advantage of this health insurance tip for freelancers - Fast Company",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSGxiM2tubkRpRFh6S1pGbnlSWnZpVkRyeDBteDhEUzN3UXFaZUNWTElwSkpVT0FSQ0k5ai1tYVhyMkFoTTFBNHNPU0M2eVJHREZTZGstZVp2aDRpZXhzU25yNlFsRHRvQzdQOFBWMjl3S1JFQm00SXJKNFpFNlcwSWdtc3VjdVhWSzhVOW41VUtZWTNhNndEQlNnc0dmLUxrR3NiaG44bGxkaHBFcms0eTA4T3FHejR0M2wwQS1Gck1ZeDQtYnlfWTdvd20?oc=5",
-    "summary": "Gen Zers and millennials are rapidly taking advantage of this health insurance tip for freelancers Fast Company",
+    "title": "Flexibility, Community and Buzzy Briefs: Freelancing Done Differently at ‘We Are Rosie’ - Muse by Clio",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMUFqZkFiWXZ6RGtac0swaGxaMzRjbFcwSU9pZm1SMTFod2kzaVF4bGp3bjVpeVZ3a2tMVnNlTkFwN09VMTJUUUtkWjBoZnhMMS02aXRLWThKN1lCSWZUekpOa3hvQVZ3TDR1dUNYbG4zT0hCbEoyYzF4bWdfS3VRNUFhOFpaSUo4YVVFc0c2OUNLZC1GM0tBVjRYTm12UnFPOVE?oc=5",
+    "summary": "Flexibility, Community and Buzzy Briefs: Freelancing Done Differently at ‘We Are Rosie’ Muse by Clio",
     "score_hint": 0.0,
     "opportunity_score": 40.0
   },
   {
     "source": "google_news",
-    "title": "Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago - The Decoder",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeHVVZkQ0cmFpcmEzMmx1NmtxNkRCN05FbFhHT211RnRUNVRrcVA1TzM1a0VIWWVUcUY4NUVENFBwcjN0UERZNTNYQTFVc3FzbGxyamJBZGdXbUtaMDBBSlJJSHRlMUVlalpfM1hxZm9YeWx4ZXo4V244UllYRHpyQ3pyVllmajVISzRFSjhvaFA3YVZ3X1ZidXlrY1RhYngzRDgyNUJjRExkWEltTWw3aEQxbDBzbkVWWWpzbw?oc=5",
-    "summary": "Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago The Decoder",
+    "title": "Freelancers who took pay as loans face six-figure bills - The Times",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR192TjhNYlFGN2VsSjZyaDlrTXhDU1RTWGtNZ0RDbTRFbkRzdFFxRHN6RXBjaFdsTnNCNDNuU3V6Wi00Z0cxUFZKZkx0QUpsRUhPWHNDYXd2R0YzbmFlT1JVdV9wQ2E0OU9pVXd4V3BZb3N5NExaeFBxU3N1TnRsUVRQc1J6QzNma3QzME1xOA?oc=5",
+    "summary": "Freelancers who took pay as loans face six-figure bills The Times",
     "score_hint": 0.0,
     "opportunity_score": 40.0
   },
   {
     "source": "google_news",
-    "title": "Rubio tightens grip on State Department, warns officials against freelancing and conflicts of interest - Firstpost",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSUFOaTBOMlFxQVhQLWQ4NEdJN3ZXdF9lS2VFajMxSVF1emczSmZHSEdXNHdsM2FDYzJBSG5iQVhqZ0ZYdXE3V1NQWFBKWThUOHIzOUJuakFTbUVPVV9lMndVQUxCbVFGRFh2NEtjSG1CT05RNkt1Y1pYbmMwUmkzcG1Ka29JYzZ6THFZSlotR091WFpkX3ItQzJDcEFIcFhUMkJaTlpRbzNwSjFSVThfaUhVanZkRVdnY2k1MTZtdXV2YXVhQmJSaFN4X21DWUd3Q0NqZFNVcnZGNWtyLVV5c9IB5gFBVV95cUxPdlU5d0JyV1RiOG5CZk1sWTQ0VTI4bXhGSzZYdmlVRGRzNEFaMENWM1ZnT0htMTZGSTZaY0FuTkhQeDM5d0xlMUdleHVuZHd3eC1HS1JMQWVBLTJBanoyeUZ3N0hmNmF6T2FJOTVBck01VnlzeHlzVUZvNU1kcV9zXzE1bTZCWGcxaVhRRWI0aDZVRDZ2Ni1LTXhYN19LcHFCQ2huNXA5UXp6SG1QRXlEb0N2dGlWVVZNZmlaWkxST1FfaE5JbkU1cmRPN0hxbGVxR2pCS2tpcl85SkNGNXBKQjZVcXVLQQ?oc=5",
-    "summary": "Rubio tightens grip on State Department, warns officials against freelancing and conflicts of interest Firstpost",
+    "title": "Anthropic’s new AI leads freelance benchmarks, yet fails 58% of the tasks - CryptoSlate",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVEVFMnZQYjNwU3NUMlFTNnhjQW1VdGJzQTRQSGhfM1hMYmR5SWprcjJ4cVdBYmpCMnEzUzJfLUpaYVllWWhNRXgxczdRcXBiN2tONnhmMzJGLU01cTNzc1ZZOEVDZUJnT3NTTV83SVFtamVSMmI0WnhZcG1XU2VpdUJIOUQ5MEJPMDVhWGVFQ2Z0c2JCMllmdGI2TQ?oc=5",
+    "summary": "Anthropic’s new AI leads freelance benchmarks, yet fails 58% of the tasks CryptoSlate",
     "score_hint": 0.0,
     "opportunity_score": 40.0
   },
   {
     "source": "google_news",
-    "title": "The Great Flexit: 3 in 4 U.S. employees say they’re likely - GlobeNewswire",
-    "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOazQyYUI5cFZ0bTJrMmJyeUhSNVhvR1g1ZTZycmh2X0w2OTUwWFlvbjQwejllcEhULTJVc1k5MFJ1eGY0ZW9nckQtazV2ZGM3YnNXci1WNW9mcThRQWNUWWZGbFRNNlhHNE9YMUQySEhVdnh3clNXZXpIVXJTUXc5Z0JBU0hUcGxhZUJNcFZLQXM4M2tCQUVfNFdQV1hseHVCTTFGU2ozbXhYRm5qTm9QdE8wYk1wMHlsLXFhTFJjbEtJMW00OVB6S0xSRF90bW5LeUZKODRNOXpvWEttOHZWVnNxR1lCNWxyTVRLX2VPU0R1OC1Yckx2b2VsYWFTOEhUd1NwN0lxM29xUzVDM2sxUkU2QXJuaEN3ZjZ4cXVfNE9WU055LTEzRWR0TElVMDJLSE9LaHJpMA?oc=5",
-    "summary": "The Great Flexit: 3 in 4 U.S. employees say they’re likely GlobeNewswire",
+    "title": "AI and 4-day weeks? What future work may look like - keysnews.com",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOW5vR29yMW9PdUE4dXFMNlgtbXRjRWNyTmhEaldjeDlPOEVYSkF3T2xfM053eWRONFUzVVNzc2R5UmRWc1dqaXpzUmdVNHI1M2ZsZ0RqMGRYbTFoa0YtV1FXc0RhbVpzU1BXUFNZWDIzRWFBbmZWR1VNUGtVR2tzdlBkZjBOY3dya2JNamxmZWlYYWJpWWVCRTVLSUpxUXh3bldKcGJnamVRdVNSbnVvX2JNQmFIWEI3UFBKMzlXVFJEM25IdUdqdWx0LVVBdXF6NTUtdW14MkpxZw?oc=5",
+    "summary": "AI and 4-day weeks? What future work may look like keysnews.com",
     "score_hint": 0.0,
     "opportunity_score": 40.0
   },
   {
     "source": "google_news",
-    "title": "OpenAI Study Finds AI Freelance Projects Carry Larger Budgets - Unite.AI",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUU5hUjZUcXJUcENPSGRBNUZxNzVfeEdRcGhSdkpFVTNxNXJEMHJ0cmZOTnNIQmZ2SFkyLTFkLTJVOFNMcjBmcU8tN0xsRHFmMlpoeV9UeWVPTGVySU16NlE5ajJzZ1d1NUE5U0xGYS1fVEVwc3JhM2E2ZXFvaXh6YUNBSjJLX3UzYllz?oc=5",
-    "summary": "OpenAI Study Finds AI Freelance Projects Carry Larger Budgets Unite.AI",
+    "title": "Laid off? 10 tips for accidental freelancers - Association of Health Care Journalists",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS0g2YnpVVGtGOUhaMTVlX2pRdnZsYUZjUWJaVXRndk5IQ0lwdUhDcjJZVjVlRDNub2hPaHA3V21zdlE5ODdQQzN3M1BzNlVxOUFWMXc4c2RPajh2Wm9YZlVhVThaRVVKcUJlOUFrU0h3bHFvYkZ5RjVFeDcyODVSNDExbTM4ak5GWk9Id0N3QQ?oc=5",
+    "summary": "Laid off? 10 tips for accidental freelancers Association of Health Care Journalists",
     "score_hint": 0.0,
     "opportunity_score": 40.0
   },
   {
     "source": "google_news",
-    "title": "AI-related freelance projects command higher budgets, OpenAI-Upwork study finds - hrme.economictimes.indiatimes.com",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbWdPSFYzcGNXR005d3BqX2JRQ0daRFF0NEhzNFhCc3pmZC05aE8tMFRldmdGMUxuQVlkWW9jeHR3UjVodFJETS1DZUxvQm9lWms1OWZ1WUpabmdYc2VfS1Z2UUx3ZXdraUFoWWFDZERNYTVXaEcxYTlKZTRWYjhvSGtZdEpWa2lnU3lJdVA4M25iRkZseTdGR1hzRnE2b3JMbnRfZlRIUlZxWFlQek1ZY2lQY3pqUGhwVWNrUkstbEJzN0lJSTBZOFpJdTlVbDh2N2M3d1JsQXdUMXBj0gHiAUFVX3lxTE5GYzRKZ3ZQdmViOUR1RjUwZ2xiSDdQM3V6Y09uN0FIWmxYd2xMWHV1NVkwRlNxR2hUTFMtcWx0MGxYOHJjNXZqRXBTRXVWY0VQZEgtZmsyWmh0VmZVNWdQVTk5al9jUG9kSndkQ25hT205cGlQSjRQdHdHTmw2UmFJNm5lTHN1UmVUM1hoUHN5a0VGZzVxRkhYNkhaR0V1OXBiYVExUF9SWVA0Sm4yaW9nMlJfQ21mWGJ6aWdDa0szT2pHTlE0bGliMjdBeHFXTFdFbC1qbV9NVWJKOVNYWGpvSkE?oc=5",
-    "summary": "AI-related freelance projects command higher budgets, OpenAI-Upwork study finds hrme.economictimes.indiatimes.com",
+    "title": "The Conversation: The state of freelancing - Creative Review",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONXVRQUg1SUhGMUF5YUVlVURka2oyQWJkTktyNzE4bXNGM2cxd1BXZnpOUlByaDhSdDh0Q1FwcWpDRGx5VjA3NUZRSldianliZnF6S1FkbnRWVDZuclQ0b1ZZVjUtZlJHbGhTNUhwUVlWNHlyZFZKb0dEcVQxZHQySw?oc=5",
+    "summary": "The Conversation: The state of freelancing Creative Review",
     "score_hint": 0.0,
-    "opportunity_score": 40.0
-  },
-  {
-    "source": "google_news",
-    "title": "The Great Flexit: 3 in 4 U.S. employees say they’re likely to go freelance within 3 years, and 42% value their independence over a higher salary - Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdVlwR2JqYmhfc08yLXIxTTY5U2Vud3hIMGhlUGlxM3R0anAyQUhXQ0U3cEpOc3BPYVNMVWM4T1pYa2NHOHpJLV9wRHJFbEh0ZThtMjR5WHp3YUE0RHVCNnRPTkFFT09LaHJydnpvU0VyckZuQnhZcFpGbE5FbXlBTzFDOWg4czF6UzBpN0JVMnpxUU1mZm16ek55bU1Razh6UHo3c1VXdThPRjdhcXVkbk1fRThGaDdw?oc=5",
-    "summary": "The Great Flexit: 3 in 4 U.S. employees say they’re likely to go freelance within 3 years, and 42% value their independence over a higher salary Stock Titan",
-    "score_hint": 0.0,
-    "opportunity_score": 40.0
-  },
-  {
-    "source": "google_news",
-    "title": "OpenAI, Upwork Study Finds AI Is Reshaping Freelance Demand, Not Simply Replacing It - BigGo Finance",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5veTVlRWJyT2FJbGxPdUFheWltUFpVMnN6VWZkMW54WFdRQ3AybHIxZHdhUERvRzdSMm5yY0hLMlVTOVdFZE5Kdmh2c1dYLURmTFdLaWVjdXhqVzZtM0tFTFk0QXBqclhwSms4dzd6dDkwM0FDcGc?oc=5",
-    "summary": "OpenAI, Upwork Study Finds AI Is Reshaping Freelance Demand, Not Simply Replacing It BigGo Finance",
-    "score_hint": 0.0,
-    "opportunity_score": 40.0
+    "opportunity_score": 38.2
   }
 ]
